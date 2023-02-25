@@ -1,0 +1,8 @@
+npx cap add android 
+npm run build   
+npx cap open android
+
+android projesinde manifest -> AndroidManifest.xml dosyasına manifest tagı içine 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+tagları eklenmesi lazım yazma ve okuma işlemleri yapmak için izin
