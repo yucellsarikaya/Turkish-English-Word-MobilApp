@@ -3,6 +3,20 @@ npm run build
 npx cap open android
 
 android projesinde manifest -> AndroidManifest.xml dosyasına manifest tagı içine 
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 tagları eklenmesi lazım yazma ve okuma işlemleri yapmak için izin
+
+
+Uygulama çalışma prensibi 
+  -> Bir kelime soru olarak sorulacak(soru sınırı olmayacak)(bu kelime isteğe göre türkçe veya ingilizce olacak)
+  -> 3 şık verilecek(artabilir ilerleyişe göre) bilerse bildiği kelimelerin olduğu yere kayıt edilecek, bilemezse bilemediği kelimelerin olduğu yere kayıt edilecek
+  -> Bu sayede sonradan girince bildiği kelimeler/bilemediği kelimeler üzerinden tekrardan soru oyunu yapabilecek
+  -> Dilediği zaman kelime ekleme yapabilecek eğer kelime listesinde yok ise
+  -> Günde kaç kelime öğrendiğini istatistik olarak gösteren menü olacak
+  -> Soru sayısını ayarlayarak sınav yapma özelliği olacak(süre de eklenecek ne kadar sürede çözdüğünü görmek için)
+  -> Liste de arama yapabilir (türkçe / ingilizce kelime)
+  -> Günlük test yaptırılabilir(bunun ilerleyişi grafik olarak sunulur)
+  -> belli bir saat aralıklarında bildirim gönderme bu bildirim içinde ingilizce-türkçe kelime verilecek.
+
+//atılan maile dönüş yapılırsa ses ile ilgili özelliklerde eklenecek!

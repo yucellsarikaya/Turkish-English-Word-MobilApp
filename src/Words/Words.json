@@ -1,0 +1,7662 @@
+[
+  {
+      "english": "abacus",
+      "turkish": "abaküs"
+  },
+  {
+      "english": "abnormal",
+      "turkish": "anormal"
+  },
+  {
+      "english": "absurd",
+      "turkish": "absürt"
+  },
+  {
+      "english": "acacia",
+      "turkish": "akasya"
+  },
+  {
+      "english": "academic",
+      "turkish": "akademik"
+  },
+  {
+      "english": "accent",
+      "turkish": "aksan"
+  },
+  {
+      "english": "accessory",
+      "turkish": "aksesuar"
+  },
+  {
+      "english": "acetone",
+      "turkish": "aseton"
+  },
+  {
+      "english": "acid",
+      "turkish": "asit"
+  },
+  {
+      "english": "acne",
+      "turkish": "akne"
+  },
+  {
+      "english": "acoustic",
+      "turkish": "akustik"
+  },
+  {
+      "english": "acrobat",
+      "turkish": "akrobat"
+  },
+  {
+      "english": "action",
+      "turkish": "aksiyon"
+  },
+  {
+      "english": "active",
+      "turkish": "aktif"
+  },
+  {
+      "english": "activitiy",
+      "turkish": "aktivite"
+  },
+  {
+      "english": "activity",
+      "turkish": "aktivite"
+  },
+  {
+      "english": "actor",
+      "turkish": "aktör"
+  },
+  {
+      "english": "actress",
+      "turkish": "aktris"
+  },
+  {
+      "english": "actual",
+      "turkish": "aktüel"
+  },
+  {
+      "english": "adaptation",
+      "turkish": "adaptasyon"
+  },
+  {
+      "english": "address",
+      "turkish": "adres"
+  },
+  {
+      "english": "admiral",
+      "turkish": "amiral"
+  },
+  {
+      "english": "advantage",
+      "turkish": "avantaj"
+  },
+  {
+      "english": "aerobic",
+      "turkish": "aerobik"
+  },
+  {
+      "english": "aesthetic",
+      "turkish": "estetik"
+  },
+  {
+      "english": "Afghanistan",
+      "turkish": "Afganistan"
+  },
+  {
+      "english": "Africa",
+      "turkish": "Afrika"
+  },
+  {
+      "english": "agenda",
+      "turkish": "ajanda"
+  },
+  {
+      "english": "agent",
+      "turkish": "ajan"
+  },
+  {
+      "english": "aggressive",
+      "turkish": "agresif"
+  },
+  {
+      "english": "agitation",
+      "turkish": "ajitasyon"
+  },
+  {
+      "english": "alarm",
+      "turkish": "alarm"
+  },
+  {
+      "english": "alcohol",
+      "turkish": "alkol"
+  },
+  {
+      "english": "alcoholic",
+      "turkish": "alkolik"
+  },
+  {
+      "english": "alcoholism",
+      "turkish": "alkolizm"
+  },
+  {
+      "english": "allergic",
+      "turkish": "alerjik"
+  },
+  {
+      "english": "allergy",
+      "turkish": "alerji"
+  },
+  {
+      "english": "alluvium",
+      "turkish": "alüvyon"
+  },
+  {
+      "english": "alphabet",
+      "turkish": "alfabe"
+  },
+  {
+      "english": "alternative",
+      "turkish": "alternatif"
+  },
+  {
+      "english": "aluminum",
+      "turkish": "alüminyum"
+  },
+  {
+      "english": "amateur",
+      "turkish": "amatör"
+  },
+  {
+      "english": "amazon",
+      "turkish": "amazon"
+  },
+  {
+      "english": "ambiance",
+      "turkish": "ambiyans"
+  },
+  {
+      "english": "ambulance",
+      "turkish": "ambulans"
+  },
+  {
+      "english": "amen",
+      "turkish": "âmin"
+  },
+  {
+      "english": "ammonia",
+      "turkish": "amonyak"
+  },
+  {
+      "english": "amphibian",
+      "turkish": "amfibi"
+  },
+  {
+      "english": "analysis",
+      "turkish": "analiz"
+  },
+  {
+      "english": "analytical",
+      "turkish": "analitik"
+  },
+  {
+      "english": "anarchy",
+      "turkish": "anarşi"
+  },
+  {
+      "english": "Anatolia",
+      "turkish": "Anadolu"
+  },
+  {
+      "english": "anatomy",
+      "turkish": "anatomi"
+  },
+  {
+      "english": "anemia",
+      "turkish": "anemi"
+  },
+  {
+      "english": "anesthesia",
+      "turkish": "anestezi"
+  },
+  {
+      "english": "angina",
+      "turkish": "anjin"
+  },
+  {
+      "english": "animation",
+      "turkish": "animasyon"
+  },
+  {
+      "english": "anonymous",
+      "turkish": "anonim"
+  },
+  {
+      "english": "Antarctic",
+      "turkish": "Antarktika"
+  },
+  {
+      "english": "antelope",
+      "turkish": "antilop"
+  },
+  {
+      "english": "antenna",
+      "turkish": "anten"
+  },
+  {
+      "english": "anti",
+      "turkish": "anti"
+  },
+  {
+      "english": "antibiotics",
+      "turkish": "antibiyotik"
+  },
+  {
+      "english": "antifreeze",
+      "turkish": "antifriz"
+  },
+  {
+      "english": "antipathy",
+      "turkish": "antipati"
+  },
+  {
+      "english": "antique",
+      "turkish": "antika"
+  },
+  {
+      "english": "antiseptics",
+      "turkish": "antiseptik"
+  },
+  {
+      "english": "antisocial",
+      "turkish": "anti"
+  },
+  {
+      "english": "antithesis",
+      "turkish": "antitez"
+  },
+  {
+      "english": "antivirus",
+      "turkish": "antivirüs"
+  },
+  {
+      "english": "apartment",
+      "turkish": "apartman"
+  },
+  {
+      "english": "appendicitis",
+      "turkish": "apandisit"
+  },
+  {
+      "english": "aquarium",
+      "turkish": "akvaryum"
+  },
+  {
+      "english": "Arab",
+      "turkish": "Arap"
+  },
+  {
+      "english": "archelogy",
+      "turkish": "arkeoloji"
+  },
+  {
+      "english": "arena",
+      "turkish": "arena"
+  },
+  {
+      "english": "Argentina",
+      "turkish": "Arjantin"
+  },
+  {
+      "english": "aristocracy",
+      "turkish": "aristokrasi"
+  },
+  {
+      "english": "arithmetic",
+      "turkish": "aritmetik"
+  },
+  {
+      "english": "aroma",
+      "turkish": "aroma"
+  },
+  {
+      "english": "artesian",
+      "turkish": "artezyen"
+  },
+  {
+      "english": "artistic",
+      "turkish": "artistik"
+  },
+  {
+      "english": "aspirin",
+      "turkish": "aspirin"
+  },
+  {
+      "english": "assist",
+      "turkish": "asist"
+  },
+  {
+      "english": "assistant",
+      "turkish": "asistan"
+  },
+  {
+      "english": "astrology",
+      "turkish": "astroloji"
+  },
+  {
+      "english": "astronaut",
+      "turkish": "astronot"
+  },
+  {
+      "english": "atheist",
+      "turkish": "ateist"
+  },
+  {
+      "english": "athlete",
+      "turkish": "atlet"
+  },
+  {
+      "english": "athletic",
+      "turkish": "atletik"
+  },
+  {
+      "english": "athleticism",
+      "turkish": "atletizm"
+  },
+  {
+      "english": "atlas",
+      "turkish": "atlas"
+  },
+  {
+      "english": "atmosphere",
+      "turkish": "atmosfer"
+  },
+  {
+      "english": "atom",
+      "turkish": "atom"
+  },
+  {
+      "english": "Austria",
+      "turkish": "Avusturya"
+  },
+  {
+      "english": "authentic",
+      "turkish": "otantik"
+  },
+  {
+      "english": "autobiography",
+      "turkish": "otobiyografi"
+  },
+  {
+      "english": "automatic",
+      "turkish": "otomatik"
+  },
+  {
+      "english": "automobile",
+      "turkish": "otomobil"
+  },
+  {
+      "english": "autonomous",
+      "turkish": "otonom"
+  },
+  {
+      "english": "autopsy",
+      "turkish": "otopsi"
+  },
+  {
+      "english": "bacteria",
+      "turkish": "bakteri"
+  },
+  {
+      "english": "bacterial",
+      "turkish": "bakteriyel"
+  },
+  {
+      "english": "badminton",
+      "turkish": "bedmintın"
+  },
+  {
+      "english": "Baghdad",
+      "turkish": "Bağdat"
+  },
+  {
+      "english": "balance",
+      "turkish": "balans"
+  },
+  {
+      "english": "balcony",
+      "turkish": "balkon"
+  },
+  {
+      "english": "ballerina",
+      "turkish": "balerin"
+  },
+  {
+      "english": "ballet",
+      "turkish": "bale"
+  },
+  {
+      "english": "ballistics",
+      "turkish": "balistik"
+  },
+  {
+      "english": "balloon",
+      "turkish": "balon"
+  },
+  {
+      "english": "bamboo",
+      "turkish": "bambu"
+  },
+  {
+      "english": "bandage",
+      "turkish": "bandaj"
+  },
+  {
+      "english": "bank",
+      "turkish": "banka"
+  },
+  {
+      "english": "banknote",
+      "turkish": "banknot"
+  },
+  {
+      "english": "bar",
+      "turkish": "bar"
+  },
+  {
+      "english": "barbarian",
+      "turkish": "barbar"
+  },
+  {
+      "english": "barbecue",
+      "turkish": "barbekü"
+  },
+  {
+      "english": "barber",
+      "turkish": "berber"
+  },
+  {
+      "english": "barcode",
+      "turkish": "barkot"
+  },
+  {
+      "english": "barman",
+      "turkish": "barmen"
+  },
+  {
+      "english": "barometer",
+      "turkish": "barometre"
+  },
+  {
+      "english": "baron",
+      "turkish": "baron"
+  },
+  {
+      "english": "baroque",
+      "turkish": "barok"
+  },
+  {
+      "english": "barrage",
+      "turkish": "baraj"
+  },
+  {
+      "english": "barricade",
+      "turkish": "barikat"
+  },
+  {
+      "english": "barrier",
+      "turkish": "bariyer"
+  },
+  {
+      "english": "baseball",
+      "turkish": "beyzbol"
+  },
+  {
+      "english": "battery",
+      "turkish": "batarya"
+  },
+  {
+      "english": "bazaar",
+      "turkish": "pazar"
+  },
+  {
+      "english": "bibliography",
+      "turkish": "bibliyografi"
+  },
+  {
+      "english": "bicycle",
+      "turkish": "bisiklet"
+  },
+  {
+      "english": "biennale",
+      "turkish": "bienal"
+  },
+  {
+      "english": "biography",
+      "turkish": "biyografi"
+  },
+  {
+      "english": "biologist",
+      "turkish": "biyolog"
+  },
+  {
+      "english": "biology",
+      "turkish": "biyology"
+  },
+  {
+      "english": "biopsy",
+      "turkish": "biyopsi"
+  },
+  {
+      "english": "biscuit",
+      "turkish": "bisküvi"
+  },
+  {
+      "english": "bite",
+      "turkish": "bayt"
+  },
+  {
+      "english": "block",
+      "turkish": "blok"
+  },
+  {
+      "english": "blouse",
+      "turkish": "bluz"
+  },
+  {
+      "english": "bluff",
+      "turkish": "blöf"
+  },
+  {
+      "english": "boat",
+      "turkish": "bot"
+  },
+  {
+      "english": "bobbin",
+      "turkish": "bobin"
+  },
+  {
+      "english": "bodyguard",
+      "turkish": "badigard"
+  },
+  {
+      "english": "bomb",
+      "turkish": "bomba"
+  },
+  {
+      "english": "boot",
+      "turkish": "bot"
+  },
+  {
+      "english": "botanical",
+      "turkish": "botanik"
+  },
+  {
+      "english": "botany",
+      "turkish": "botanik"
+  },
+  {
+      "english": "bouquet",
+      "turkish": "buket"
+  },
+  {
+      "english": "boutique",
+      "turkish": "butik"
+  },
+  {
+      "english": "bowling",
+      "turkish": "bowling"
+  },
+  {
+      "english": "boxing",
+      "turkish": "boks"
+  },
+  {
+      "english": "boycott",
+      "turkish": "boykot"
+  },
+  {
+      "english": "branch",
+      "turkish": "branş"
+  },
+  {
+      "english": "bridge",
+      "turkish": "briç"
+  },
+  {
+      "english": "briefing",
+      "turkish": "brifing"
+  },
+  {
+      "english": "broach",
+      "turkish": "broş"
+  },
+  {
+      "english": "brochure",
+      "turkish": "broşür"
+  },
+  {
+      "english": "bronze",
+      "turkish": "bronz"
+  },
+  {
+      "english": "brother",
+      "turkish": "birader"
+  },
+  {
+      "english": "Budapest",
+      "turkish": "Budapeşte"
+  },
+  {
+      "english": "Buddhism",
+      "turkish": "Budizm"
+  },
+  {
+      "english": "bulgur",
+      "turkish": "bulgur"
+  },
+  {
+      "english": "bulletin",
+      "turkish": "bülten"
+  },
+  {
+      "english": "bungalow",
+      "turkish": "bungalov"
+  },
+  {
+      "english": "bureau",
+      "turkish": "büro"
+  },
+  {
+      "english": "bureaucracy",
+      "turkish": "bürokrasi"
+  },
+  {
+      "english": "bust",
+      "turkish": "büst"
+  },
+  {
+      "english": "button",
+      "turkish": "buton"
+  },
+  {
+      "english": "by-pass",
+      "turkish": "baypas"
+  },
+  {
+      "english": "cabaret",
+      "turkish": "kabare"
+  },
+  {
+      "english": "cabin",
+      "turkish": "kabin"
+  },
+  {
+      "english": "cacao",
+      "turkish": "kakao"
+  },
+  {
+      "english": "cactus",
+      "turkish": "kaktüs"
+  },
+  {
+      "english": "cafe",
+      "turkish": "kafe"
+  },
+  {
+      "english": "caffeine",
+      "turkish": "kafein"
+  },
+  {
+      "english": "cake",
+      "turkish": "kek"
+  },
+  {
+      "english": "calcium",
+      "turkish": "kalsiyum"
+  },
+  {
+      "english": "caliph",
+      "turkish": "halife"
+  },
+  {
+      "english": "calligraphy",
+      "turkish": "kaligrafi"
+  },
+  {
+      "english": "calorie",
+      "turkish": "kalori"
+  },
+  {
+      "english": "camera",
+      "turkish": "kamera"
+  },
+  {
+      "english": "cameraman",
+      "turkish": "kameraman"
+  },
+  {
+      "english": "camouflage",
+      "turkish": "kamuflaj"
+  },
+  {
+      "english": "camp",
+      "turkish": "kamp"
+  },
+  {
+      "english": "campaign",
+      "turkish": "kampanya"
+  },
+  {
+      "english": "campus",
+      "turkish": "kampus"
+  },
+  {
+      "english": "Canada",
+      "turkish": "Kanada"
+  },
+  {
+      "english": "canal",
+      "turkish": "kanal"
+  },
+  {
+      "english": "cancer",
+      "turkish": "kanser"
+  },
+  {
+      "english": "canoeing",
+      "turkish": "kano"
+  },
+  {
+      "english": "canteen",
+      "turkish": "kantin"
+  },
+  {
+      "english": "canyon",
+      "turkish": "kanyon"
+  },
+  {
+      "english": "capacity",
+      "turkish": "kapasite"
+  },
+  {
+      "english": "caprice",
+      "turkish": "kapris"
+  },
+  {
+      "english": "capsule",
+      "turkish": "kapsül"
+  },
+  {
+      "english": "captain",
+      "turkish": "kaptan"
+  },
+  {
+      "english": "caramel",
+      "turkish": "karamel"
+  },
+  {
+      "english": "caravan",
+      "turkish": "karavan"
+  },
+  {
+      "english": "carbon",
+      "turkish": "karbon"
+  },
+  {
+      "english": "carbondioxide",
+      "turkish": "karbondioksit"
+  },
+  {
+      "english": "carburetor",
+      "turkish": "karbüratör"
+  },
+  {
+      "english": "card",
+      "turkish": "kart"
+  },
+  {
+      "english": "cardiology",
+      "turkish": "kardiyoloji"
+  },
+  {
+      "english": "career",
+      "turkish": "kariyer"
+  },
+  {
+      "english": "cargo",
+      "turkish": "kargo"
+  },
+  {
+      "english": "carnival",
+      "turkish": "karnaval"
+  },
+  {
+      "english": "carton",
+      "turkish": "karton"
+  },
+  {
+      "english": "cashier",
+      "turkish": "kasiyer"
+  },
+  {
+      "english": "cassette",
+      "turkish": "kaset"
+  },
+  {
+      "english": "catalog",
+      "turkish": "katalog"
+  },
+  {
+      "english": "catalogue",
+      "turkish": "katalog"
+  },
+  {
+      "english": "category",
+      "turkish": "kategori"
+  },
+  {
+      "english": "cathedral",
+      "turkish": "katedral"
+  },
+  {
+      "english": "Catholic",
+      "turkish": "Katolik"
+  },
+  {
+      "english": "CD",
+      "turkish": "CD"
+  },
+  {
+      "english": "censor",
+      "turkish": "sansür"
+  },
+  {
+      "english": "centigrade",
+      "turkish": "santigrat"
+  },
+  {
+      "english": "centimeter",
+      "turkish": "santimetre"
+  },
+  {
+      "english": "central",
+      "turkish": "santral"
+  },
+  {
+      "english": "ceramic",
+      "turkish": "seramik"
+  },
+  {
+      "english": "certificate",
+      "turkish": "sertifika"
+  },
+  {
+      "english": "champagne",
+      "turkish": "şampanya"
+  },
+  {
+      "english": "champion",
+      "turkish": "şampiyon"
+  },
+  {
+      "english": "channel",
+      "turkish": "kanal"
+  },
+  {
+      "english": "chaos",
+      "turkish": "kaos"
+  },
+  {
+      "english": "character",
+      "turkish": "karakter"
+  },
+  {
+      "english": "charlatan",
+      "turkish": "şarlatan"
+  },
+  {
+      "english": "chauffeur",
+      "turkish": "şoför"
+  },
+  {
+      "english": "chauvinism",
+      "turkish": "şovenizm"
+  },
+  {
+      "english": "chef",
+      "turkish": "şef"
+  },
+  {
+      "english": "cheque",
+      "turkish": "çek"
+  },
+  {
+      "english": "chocolate",
+      "turkish": "çikolata"
+  },
+  {
+      "english": "cholera",
+      "turkish": "kolera"
+  },
+  {
+      "english": "Christian",
+      "turkish": "Hıristiyan"
+  },
+  {
+      "english": "chrome",
+      "turkish": "krom"
+  },
+  {
+      "english": "chronic",
+      "turkish": "kronik"
+  },
+  {
+      "english": "cigarette",
+      "turkish": "sigara"
+  },
+  {
+      "english": "cinema",
+      "turkish": "sinema"
+  },
+  {
+      "english": "circulation",
+      "turkish": "sirkülasyon"
+  },
+  {
+      "english": "circus",
+      "turkish": "sirk"
+  },
+  {
+      "english": "civil",
+      "turkish": "sivil"
+  },
+  {
+      "english": "clan",
+      "turkish": "klan"
+  },
+  {
+      "english": "classic",
+      "turkish": "klasik"
+  },
+  {
+      "english": "coach",
+      "turkish": "koç"
+  },
+  {
+      "english": "coalition",
+      "turkish": "koalisyon"
+  },
+  {
+      "english": "cobra",
+      "turkish": "kobra"
+  },
+  {
+      "english": "cocaine",
+      "turkish": "kokain"
+  },
+  {
+      "english": "cockpit",
+      "turkish": "kokpit"
+  },
+  {
+      "english": "code",
+      "turkish": "kod"
+  },
+  {
+      "english": "coffee",
+      "turkish": "kahve"
+  },
+  {
+      "english": "cognac",
+      "turkish": "konyak"
+  },
+  {
+      "english": "commander",
+      "turkish": "kumandan"
+  },
+  {
+      "english": "complicated",
+      "turkish": "komplike"
+  },
+  {
+      "english": "concentrated",
+      "turkish": "konsantre"
+  },
+  {
+      "english": "conservative",
+      "turkish": "konservatif"
+  },
+  {
+      "english": "conservatory",
+      "turkish": "konservatuar"
+  },
+  {
+      "english": "controller",
+      "turkish": "kontrolör"
+  },
+  {
+      "english": "convoy",
+      "turkish": "konvoy"
+  },
+  {
+      "english": "cooperative",
+      "turkish": "kooperatif"
+  },
+  {
+      "english": "coordinator",
+      "turkish": "koordinatör"
+  },
+  {
+      "english": "Copenhagen",
+      "turkish": "Kopenhag"
+  },
+  {
+      "english": "copy",
+      "turkish": "kopya"
+  },
+  {
+      "english": "corner",
+      "turkish": "korner"
+  },
+  {
+      "english": "corridor",
+      "turkish": "koridor"
+  },
+  {
+      "english": "cosmetic",
+      "turkish": "kozmetik"
+  },
+  {
+      "english": "cosmic",
+      "turkish": "kozmik"
+  },
+  {
+      "english": "costume",
+      "turkish": "kostüm"
+  },
+  {
+      "english": "cotton",
+      "turkish": "koton"
+  },
+  {
+      "english": "course",
+      "turkish": "kurs"
+  },
+  {
+      "english": "cowboy",
+      "turkish": "kovboy"
+  },
+  {
+      "english": "cramp",
+      "turkish": "kramp"
+  },
+  {
+      "english": "crater",
+      "turkish": "krater"
+  },
+  {
+      "english": "cream",
+      "turkish": "krem"
+  },
+  {
+      "english": "creative",
+      "turkish": "kreatif"
+  },
+  {
+      "english": "credit",
+      "turkish": "kredi"
+  },
+  {
+      "english": "cricket",
+      "turkish": "kriket"
+  },
+  {
+      "english": "criminal",
+      "turkish": "kriminal"
+  },
+  {
+      "english": "criterion",
+      "turkish": "kriter"
+  },
+  {
+      "english": "crystal",
+      "turkish": "kristal"
+  },
+  {
+      "english": "cube",
+      "turkish": "küp"
+  },
+  {
+      "english": "cure",
+      "turkish": "kür"
+  },
+  {
+      "english": "cylinder",
+      "turkish": "silindir"
+  },
+  {
+      "english": "dance",
+      "turkish": "dans"
+  },
+  {
+      "english": "dancer",
+      "turkish": "dansçı"
+  },
+  {
+      "english": "data",
+      "turkish": "data"
+  },
+  {
+      "english": "declaration",
+      "turkish": "deklarasyon"
+  },
+  {
+      "english": "decorative",
+      "turkish": "dekoratif"
+  },
+  {
+      "english": "deep",
+      "turkish": "dip"
+  },
+  {
+      "english": "deep-freeze",
+      "turkish": "dipfriz"
+  },
+  {
+      "english": "defense",
+      "turkish": "defans"
+  },
+  {
+      "english": "degenerate",
+      "turkish": "dejenere"
+  },
+  {
+      "english": "democracy",
+      "turkish": "demokrasi"
+  },
+  {
+      "english": "demogogy",
+      "turkish": "demogoji"
+  },
+  {
+      "english": "demography",
+      "turkish": "demografi"
+  },
+  {
+      "english": "deodorant",
+      "turkish": "deodorant"
+  },
+  {
+      "english": "department",
+      "turkish": "departman"
+  },
+  {
+      "english": "deposit",
+      "turkish": "depozit"
+  },
+  {
+      "english": "depot",
+      "turkish": "depo"
+  },
+  {
+      "english": "dermatology",
+      "turkish": "dermatoloji"
+  },
+  {
+      "english": "design",
+      "turkish": "dizayn"
+  },
+  {
+      "english": "despot",
+      "turkish": "despot"
+  },
+  {
+      "english": "destination",
+      "turkish": "destinasyon"
+  },
+  {
+      "english": "destroyer",
+      "turkish": "destroyer"
+  },
+  {
+      "english": "detective",
+      "turkish": "dedektif"
+  },
+  {
+      "english": "detector",
+      "turkish": "detektör"
+  },
+  {
+      "english": "detergent",
+      "turkish": "deterjan"
+  },
+  {
+      "english": "devaluation",
+      "turkish": "devalüasyon"
+  },
+  {
+      "english": "diabetes",
+      "turkish": "diyabet"
+  },
+  {
+      "english": "diagram",
+      "turkish": "diyagram"
+  },
+  {
+      "english": "dialect",
+      "turkish": "diyalekt"
+  },
+  {
+      "english": "dialogue",
+      "turkish": "diyalog"
+  },
+  {
+      "english": "dialysis",
+      "turkish": "diyaliz"
+  },
+  {
+      "english": "diaphragm",
+      "turkish": "diyafram"
+  },
+  {
+      "english": "dictator",
+      "turkish": "diktatör"
+  },
+  {
+      "english": "diction",
+      "turkish": "diksiyon"
+  },
+  {
+      "english": "diet",
+      "turkish": "diyet"
+  },
+  {
+      "english": "digital",
+      "turkish": "dijital"
+  },
+  {
+      "english": "dinosaur",
+      "turkish": "dinozor"
+  },
+  {
+      "english": "diplomacy",
+      "turkish": "diplomasi"
+  },
+  {
+      "english": "diplomat",
+      "turkish": "diplomat"
+  },
+  {
+      "english": "direct",
+      "turkish": "direkt"
+  },
+  {
+      "english": "director",
+      "turkish": "direktör"
+  },
+  {
+      "english": "disc",
+      "turkish": "disk"
+  },
+  {
+      "english": "discipline",
+      "turkish": "disiplin"
+  },
+  {
+      "english": "disc-jockey",
+      "turkish": "diskjokey"
+  },
+  {
+      "english": "disinfect",
+      "turkish": "dezenfekte"
+  },
+  {
+      "english": "disinfectant",
+      "turkish": "dezenfektan"
+  },
+  {
+      "english": "diskette",
+      "turkish": "disket"
+  },
+  {
+      "english": "doctor",
+      "turkish": "doktor"
+  },
+  {
+      "english": "doctrine",
+      "turkish": "doktrin"
+  },
+  {
+      "english": "document",
+      "turkish": "doküman"
+  },
+  {
+      "english": "dogma",
+      "turkish": "dogma"
+  },
+  {
+      "english": "dollar",
+      "turkish": "dolar"
+  },
+  {
+      "english": "dominant",
+      "turkish": "dominant"
+  },
+  {
+      "english": "Dominican",
+      "turkish": "Dominik"
+  },
+  {
+      "english": "doping",
+      "turkish": "doping"
+  },
+  {
+      "english": "dosage",
+      "turkish": "dozaj"
+  },
+  {
+      "english": "dosier",
+      "turkish": "dosya"
+  },
+  {
+      "english": "double",
+      "turkish": "duble"
+  },
+  {
+      "english": "douche",
+      "turkish": "duş"
+  },
+  {
+      "english": "drama",
+      "turkish": "dram"
+  },
+  {
+      "english": "duel",
+      "turkish": "düello"
+  },
+  {
+      "english": "duplex",
+      "turkish": "dubleks"
+  },
+  {
+      "english": "DVD",
+      "turkish": "DVD"
+  },
+  {
+      "english": "dynamite",
+      "turkish": "dinamit"
+  },
+  {
+      "english": "dynamo",
+      "turkish": "dinamo"
+  },
+  {
+      "english": "dysentery",
+      "turkish": "dizanteri"
+  },
+  {
+      "english": "eccentric",
+      "turkish": "eksantrik"
+  },
+  {
+      "english": "eco",
+      "turkish": "eko"
+  },
+  {
+      "english": "ecology",
+      "turkish": "ekoloji"
+  },
+  {
+      "english": "economical",
+      "turkish": "ekonomik"
+  },
+  {
+      "english": "economist",
+      "turkish": "ekonomist"
+  },
+  {
+      "english": "economy",
+      "turkish": "ekonomi"
+  },
+  {
+      "english": "eczema",
+      "turkish": "egzama"
+  },
+  {
+      "english": "editor",
+      "turkish": "editör"
+  },
+  {
+      "english": "effect",
+      "turkish": "efekt"
+  },
+  {
+      "english": "egoist",
+      "turkish": "egoist"
+  },
+  {
+      "english": "elastic",
+      "turkish": "elastik"
+  },
+  {
+      "english": "electric",
+      "turkish": "elektrik"
+  },
+  {
+      "english": "electron",
+      "turkish": "elektron"
+  },
+  {
+      "english": "electronic",
+      "turkish": "elektronik"
+  },
+  {
+      "english": "electronically",
+      "turkish": "elektrikli"
+  },
+  {
+      "english": "elegant",
+      "turkish": "elegan"
+  },
+  {
+      "english": "element",
+      "turkish": "element"
+  },
+  {
+      "english": "ellipse",
+      "turkish": "elips"
+  },
+  {
+      "english": "embargo",
+      "turkish": "ambargo"
+  },
+  {
+      "english": "emblem",
+      "turkish": "amblem"
+  },
+  {
+      "english": "embryo",
+      "turkish": "embriyo"
+  },
+  {
+      "english": "emperor",
+      "turkish": "imparator"
+  },
+  {
+      "english": "encyclopedia",
+      "turkish": "ansiklopedi"
+  },
+  {
+      "english": "endocrine",
+      "turkish": "endokrin"
+  },
+  {
+      "english": "endorphine",
+      "turkish": "endorfin"
+  },
+  {
+      "english": "energetic",
+      "turkish": "enerjik"
+  },
+  {
+      "english": "energy",
+      "turkish": "enerji"
+  },
+  {
+      "english": "English",
+      "turkish": "İngilizce"
+  },
+  {
+      "english": "epic",
+      "turkish": "epik"
+  },
+  {
+      "english": "Equator",
+      "turkish": "Ekvator"
+  },
+  {
+      "english": "erosion",
+      "turkish": "erozyon"
+  },
+  {
+      "english": "Eskimo",
+      "turkish": "Eskimo"
+  },
+  {
+      "english": "Estonia",
+      "turkish": "Estonya"
+  },
+  {
+      "english": "ether",
+      "turkish": "eter"
+  },
+  {
+      "english": "Ethiopia",
+      "turkish": "Etiyopya"
+  },
+  {
+      "english": "Euro",
+      "turkish": "Euro"
+  },
+  {
+      "english": "Europe",
+      "turkish": "Avrupa"
+  },
+  {
+      "english": "exhaust",
+      "turkish": "pipe"
+  },
+  {
+      "english": "exotic",
+      "turkish": "egzotik"
+  },
+  {
+      "english": "expert",
+      "turkish": "eksper"
+  },
+  {
+      "english": "express",
+      "turkish": "ekspres"
+  },
+  {
+      "english": "extra",
+      "turkish": "ekstra"
+  },
+  {
+      "english": "factor",
+      "turkish": "faktör"
+  },
+  {
+      "english": "fan",
+      "turkish": "fan"
+  },
+  {
+      "english": "fanatic",
+      "turkish": "fanatik"
+  },
+  {
+      "english": "fantastic",
+      "turkish": "fantastik"
+  },
+  {
+      "english": "fantasy",
+      "turkish": "fantezi"
+  },
+  {
+      "english": "fascism",
+      "turkish": "faşizm"
+  },
+  {
+      "english": "fascist",
+      "turkish": "faşist"
+  },
+  {
+      "english": "fax",
+      "turkish": "faks"
+  },
+  {
+      "english": "feasibility",
+      "turkish": "fizibilite"
+  },
+  {
+      "english": "federal",
+      "turkish": "federal"
+  },
+  {
+      "english": "federation",
+      "turkish": "federasyon"
+  },
+  {
+      "english": "federative",
+      "turkish": "federatif"
+  },
+  {
+      "english": "feminist",
+      "turkish": "feminist"
+  },
+  {
+      "english": "ferry-boat",
+      "turkish": "feribot"
+  },
+  {
+      "english": "festival",
+      "turkish": "festival"
+  },
+  {
+      "english": "fiasco",
+      "turkish": "fiyasko"
+  },
+  {
+      "english": "film",
+      "turkish": "film"
+  },
+  {
+      "english": "filter",
+      "turkish": "filtre"
+  },
+  {
+      "english": "final",
+      "turkish": "final"
+  },
+  {
+      "english": "finalist",
+      "turkish": "finalist"
+  },
+  {
+      "english": "finance",
+      "turkish": "finans"
+  },
+  {
+      "english": "flamingo",
+      "turkish": "flamingo"
+  },
+  {
+      "english": "flash",
+      "turkish": "flaş"
+  },
+  {
+      "english": "flirt",
+      "turkish": "flört"
+  },
+  {
+      "english": "flora",
+      "turkish": "flora"
+  },
+  {
+      "english": "flute",
+      "turkish": "flüt"
+  },
+  {
+      "english": "football",
+      "turkish": "futbol"
+  },
+  {
+      "english": "force",
+      "turkish": "fors"
+  },
+  {
+      "english": "formula",
+      "turkish": "formül"
+  },
+  {
+      "english": "forum",
+      "turkish": "forum"
+  },
+  {
+      "english": "fossil",
+      "turkish": "fosil"
+  },
+  {
+      "english": "foul",
+      "turkish": "faul"
+  },
+  {
+      "english": "fraction",
+      "turkish": "fraksiyon"
+  },
+  {
+      "english": "France",
+      "turkish": "Fransa"
+  },
+  {
+      "english": "frequency",
+      "turkish": "frekans"
+  },
+  {
+      "english": "fresco",
+      "turkish": "fresk"
+  },
+  {
+      "english": "function",
+      "turkish": "fonksiyon"
+  },
+  {
+      "english": "fund",
+      "turkish": "fon"
+  },
+  {
+      "english": "fusion",
+      "turkish": "füzyon"
+  },
+  {
+      "english": "gabardine",
+      "turkish": "gabardin"
+  },
+  {
+      "english": "galaxy",
+      "turkish": "galaksi"
+  },
+  {
+      "english": "gallery",
+      "turkish": "galeri"
+  },
+  {
+      "english": "gangster",
+      "turkish": "gangster"
+  },
+  {
+      "english": "garage",
+      "turkish": "garaj"
+  },
+  {
+      "english": "garrison",
+      "turkish": "garnizon"
+  },
+  {
+      "english": "gas",
+      "turkish": "gaz"
+  },
+  {
+      "english": "gastronomy",
+      "turkish": "gastronomi"
+  },
+  {
+      "english": "gel",
+      "turkish": "jel"
+  },
+  {
+      "english": "gelatin",
+      "turkish": "jelatin"
+  },
+  {
+      "english": "gene",
+      "turkish": "gen"
+  },
+  {
+      "english": "general",
+      "turkish": "general"
+  },
+  {
+      "english": "generator",
+      "turkish": "jeneratör"
+  },
+  {
+      "english": "genetic",
+      "turkish": "genetik"
+  },
+  {
+      "english": "geography",
+      "turkish": "coğrafya"
+  },
+  {
+      "english": "geology",
+      "turkish": "jeoloji"
+  },
+  {
+      "english": "geometry",
+      "turkish": "geometri"
+  },
+  {
+      "english": "geophysics",
+      "turkish": "jeofizik"
+  },
+  {
+      "english": "gigabyte",
+      "turkish": "cigabayt"
+  },
+  {
+      "english": "gin",
+      "turkish": "cin"
+  },
+  {
+      "english": "global",
+      "turkish": "global"
+  },
+  {
+      "english": "goal",
+      "turkish": "gol"
+  },
+  {
+      "english": "golf",
+      "turkish": "golf"
+  },
+  {
+      "english": "gondola",
+      "turkish": "gondol"
+  },
+  {
+      "english": "gorilla",
+      "turkish": "goril"
+  },
+  {
+      "english": "gothic",
+      "turkish": "gotik"
+  },
+  {
+      "english": "gram",
+      "turkish": "gram"
+  },
+  {
+      "english": "grammar",
+      "turkish": "gramer"
+  },
+  {
+      "english": "granite",
+      "turkish": "granit"
+  },
+  {
+      "english": "grapefruit",
+      "turkish": "greyfurt"
+  },
+  {
+      "english": "graphic",
+      "turkish": "grafik"
+  },
+  {
+      "english": "group",
+      "turkish": "grup"
+  },
+  {
+      "english": "guarantee",
+      "turkish": "garanti"
+  },
+  {
+      "english": "guerilla",
+      "turkish": "gerilla"
+  },
+  {
+      "english": "guitar",
+      "turkish": "gitar"
+  },
+  {
+      "english": "gymnastics",
+      "turkish": "jimnastik"
+  },
+  {
+      "english": "gynecology",
+      "turkish": "jinekoloji"
+  },
+  {
+      "english": "hall",
+      "turkish": "hol"
+  },
+  {
+      "english": "hamburger",
+      "turkish": "hamburger"
+  },
+  {
+      "english": "hammock",
+      "turkish": "hamak"
+  },
+  {
+      "english": "handball",
+      "turkish": "hentbol"
+  },
+  {
+      "english": "handicap",
+      "turkish": "handikap"
+  },
+  {
+      "english": "hangar",
+      "turkish": "hangar"
+  },
+  {
+      "english": "harem",
+      "turkish": "harem"
+  },
+  {
+      "english": "harmony",
+      "turkish": "harmoni"
+  },
+  {
+      "english": "hashish",
+      "turkish": "haşhaş"
+  },
+  {
+      "english": "helicopter",
+      "turkish": "helikopter"
+  },
+  {
+      "english": "helium",
+      "turkish": "helyum"
+  },
+  {
+      "english": "heroine",
+      "turkish": "eroin"
+  },
+  {
+      "english": "highly",
+      "turkish": "hayli"
+  },
+  {
+      "english": "hippi",
+      "turkish": "hippi"
+  },
+  {
+      "english": "hippodrome",
+      "turkish": "hipodrom"
+  },
+  {
+      "english": "hobby",
+      "turkish": "hobi"
+  },
+  {
+      "english": "hockey",
+      "turkish": "hokey"
+  },
+  {
+      "english": "holding",
+      "turkish": "holding"
+  },
+  {
+      "english": "homogeneous",
+      "turkish": "homojen"
+  },
+  {
+      "english": "honor",
+      "turkish": "onur"
+  },
+  {
+      "english": "honorable",
+      "turkish": "onurlu"
+  },
+  {
+      "english": "hooligan",
+      "turkish": "holigan"
+  },
+  {
+      "english": "hormone",
+      "turkish": "hormon"
+  },
+  {
+      "english": "hotel",
+      "turkish": "otel"
+  },
+  {
+      "english": "humanist",
+      "turkish": "humanist"
+  },
+  {
+      "english": "hygiene",
+      "turkish": "hijyen"
+  },
+  {
+      "english": "hypnosis",
+      "turkish": "hipnoz"
+  },
+  {
+      "english": "hypothec",
+      "turkish": "ipotek"
+  },
+  {
+      "english": "hysteria",
+      "turkish": "histeri"
+  },
+  {
+      "english": "hysteric",
+      "turkish": "isterik"
+  },
+  {
+      "english": "Indonesia",
+      "turkish": "Endonezya"
+  },
+  {
+      "english": "Iran",
+      "turkish": "İran"
+  },
+  {
+      "english": "Iraq",
+      "turkish": "Irak"
+  },
+  {
+      "english": "Ireland",
+      "turkish": "İrlanda"
+  },
+  {
+      "english": "Israel",
+      "turkish": "İsrail"
+  },
+  {
+      "english": "Italy",
+      "turkish": "İtalya"
+  },
+  {
+      "english": "icon",
+      "turkish": "ikon"
+  },
+  {
+      "english": "ideal",
+      "turkish": "ideal"
+  },
+  {
+      "english": "idealist",
+      "turkish": "idealist"
+  },
+  {
+      "english": "ideology",
+      "turkish": "ideoloji"
+  },
+  {
+      "english": "idol",
+      "turkish": "idol"
+  },
+  {
+      "english": "illegal",
+      "turkish": "illegal"
+  },
+  {
+      "english": "illusion",
+      "turkish": "illüzyon"
+  },
+  {
+      "english": "image",
+      "turkish": "imaj"
+  },
+  {
+      "english": "imitation",
+      "turkish": "imitasyon"
+  },
+  {
+      "english": "immunology",
+      "turkish": "immünoloji"
+  },
+  {
+      "english": "impose",
+      "turkish": "empoze"
+  },
+  {
+      "english": "indicator",
+      "turkish": "indikatör"
+  },
+  {
+      "english": "indirect",
+      "turkish": "endirekt"
+  },
+  {
+      "english": "industry",
+      "turkish": "endüstri"
+  },
+  {
+      "english": "information",
+      "turkish": "enformasyon"
+  },
+  {
+      "english": "initiative",
+      "turkish": "inisiyatif"
+  },
+  {
+      "english": "injection",
+      "turkish": "enjeksiyon"
+  },
+  {
+      "english": "innovation",
+      "turkish": "inovasyon"
+  },
+  {
+      "english": "inorganic",
+      "turkish": "inorganik"
+  },
+  {
+      "english": "instantaneous",
+      "turkish": "enstantane"
+  },
+  {
+      "english": "institute",
+      "turkish": "enstitü"
+  },
+  {
+      "english": "instrument",
+      "turkish": "enstrüman"
+  },
+  {
+      "english": "integrated",
+      "turkish": "entegre"
+  },
+  {
+      "english": "integration",
+      "turkish": "entegrasyon"
+  },
+  {
+      "english": "interactive",
+      "turkish": "enteraktif"
+  },
+  {
+      "english": "international",
+      "turkish": "enternasyonal"
+  },
+  {
+      "english": "internet",
+      "turkish": "internet"
+  },
+  {
+      "english": "intranet",
+      "turkish": "intranet"
+  },
+  {
+      "english": "ion",
+      "turkish": "iyon"
+  },
+  {
+      "english": "iris",
+      "turkish": "iris"
+  },
+  {
+      "english": "irony",
+      "turkish": "ironi"
+  },
+  {
+      "english": "isolation",
+      "turkish": "izolasyon"
+  },
+  {
+      "english": "jackal",
+      "turkish": "çakal"
+  },
+  {
+      "english": "jacket",
+      "turkish": "ceket"
+  },
+  {
+      "english": "jacuzzi",
+      "turkish": "jakuzi"
+  },
+  {
+      "english": "jazz",
+      "turkish": "caz"
+  },
+  {
+      "english": "jeep",
+      "turkish": "cip"
+  },
+  {
+      "english": "jet",
+      "turkish": "jet"
+  },
+  {
+      "english": "jockey",
+      "turkish": "jokey"
+  },
+  {
+      "english": "jubilee",
+      "turkish": "jübile"
+  },
+  {
+      "english": "judo",
+      "turkish": "judo"
+  },
+  {
+      "english": "jury",
+      "turkish": "juri"
+  },
+  {
+      "english": "kangaroo",
+      "turkish": "kanguru"
+  },
+  {
+      "english": "karate",
+      "turkish": "karate"
+  },
+  {
+      "english": "ketchup",
+      "turkish": "ketçap"
+  },
+  {
+      "english": "kettle",
+      "turkish": "ketıl"
+  },
+  {
+      "english": "kilo",
+      "turkish": "kilo"
+  },
+  {
+      "english": "kiosk",
+      "turkish": "köşk"
+  },
+  {
+      "english": "knock",
+      "turkish": "out"
+  },
+  {
+      "english": "kung",
+      "turkish": "fu"
+  },
+  {
+      "english": "lady",
+      "turkish": "leydi"
+  },
+  {
+      "english": "lamp",
+      "turkish": "lamba"
+  },
+  {
+      "english": "laser",
+      "turkish": "lazer"
+  },
+  {
+      "english": "Latvia",
+      "turkish": "Letonya"
+  },
+  {
+      "english": "leader",
+      "turkish": "lider"
+  },
+  {
+      "english": "league",
+      "turkish": "lig"
+  },
+  {
+      "english": "legal",
+      "turkish": "legal"
+  },
+  {
+      "english": "lemon",
+      "turkish": "limon"
+  },
+  {
+      "english": "leopard",
+      "turkish": "leopar"
+  },
+  {
+      "english": "liberal",
+      "turkish": "liberal"
+  },
+  {
+      "english": "lilac",
+      "turkish": "leylak"
+  },
+  {
+      "english": "limit",
+      "turkish": "limit"
+  },
+  {
+      "english": "link",
+      "turkish": "link"
+  },
+  {
+      "english": "list",
+      "turkish": "liste"
+  },
+  {
+      "english": "liter",
+      "turkish": "litre"
+  },
+  {
+      "english": "literature",
+      "turkish": "literatür"
+  },
+  {
+      "english": "Lithuania",
+      "turkish": "Litvanya"
+  },
+  {
+      "english": "lobby",
+      "turkish": "lobi"
+  },
+  {
+      "english": "local",
+      "turkish": "lokal"
+  },
+  {
+      "english": "locomotive",
+      "turkish": "lokomotif"
+  },
+  {
+      "english": "logo",
+      "turkish": "logo"
+  },
+  {
+      "english": "lotion",
+      "turkish": "losyon"
+  },
+  {
+      "english": "Luxemburg",
+      "turkish": "Lüksemburg"
+  },
+  {
+      "english": "luxury",
+      "turkish": "lüks"
+  },
+  {
+      "english": "lynch",
+      "turkish": "linç"
+  },
+  {
+      "english": "Macedonia",
+      "turkish": "Makedonya"
+  },
+  {
+      "english": "machine",
+      "turkish": "makine"
+  },
+  {
+      "english": "major",
+      "turkish": "majör"
+  },
+  {
+      "english": "Malaysia",
+      "turkish": "Malezya"
+  },
+  {
+      "english": "mammoth",
+      "turkish": "mamut"
+  },
+  {
+      "english": "maneuver",
+      "turkish": "manevra"
+  },
+  {
+      "english": "maniac",
+      "turkish": "manyak"
+  },
+  {
+      "english": "manicure",
+      "turkish": "manikür"
+  },
+  {
+      "english": "margarine",
+      "turkish": "margarin"
+  },
+  {
+      "english": "marginal",
+      "turkish": "marjinal"
+  },
+  {
+      "english": "marina",
+      "turkish": "marina"
+  },
+  {
+      "english": "market",
+      "turkish": "market"
+  },
+  {
+      "english": "marmalade",
+      "turkish": "marmelat"
+  },
+  {
+      "english": "mascara",
+      "turkish": "maskara"
+  },
+  {
+      "english": "mascot",
+      "turkish": "maskot"
+  },
+  {
+      "english": "mask",
+      "turkish": "maske"
+  },
+  {
+      "english": "massage",
+      "turkish": "masaj"
+  },
+  {
+      "english": "masseuse",
+      "turkish": "masöz"
+  },
+  {
+      "english": "match",
+      "turkish": "maç"
+  },
+  {
+      "english": "material",
+      "turkish": "materyal"
+  },
+  {
+      "english": "mathematics",
+      "turkish": "matematik"
+  },
+  {
+      "english": "maximum",
+      "turkish": "maksimum"
+  },
+  {
+      "english": "mayonnaise",
+      "turkish": "mayonez"
+  },
+  {
+      "english": "mechanical",
+      "turkish": "mekanik"
+  },
+  {
+      "english": "medal",
+      "turkish": "madalya"
+  },
+  {
+      "english": "medallion",
+      "turkish": "madalyon"
+  },
+  {
+      "english": "media",
+      "turkish": "medya"
+  },
+  {
+      "english": "medium",
+      "turkish": "medyum"
+  },
+  {
+      "english": "meeting",
+      "turkish": "miting"
+  },
+  {
+      "english": "mega",
+      "turkish": "mega"
+  },
+  {
+      "english": "megaphone",
+      "turkish": "megafon"
+  },
+  {
+      "english": "melancholy",
+      "turkish": "melankoli"
+  },
+  {
+      "english": "melody",
+      "turkish": "melodi"
+  },
+  {
+      "english": "mentality",
+      "turkish": "mantalite"
+  },
+  {
+      "english": "menthol",
+      "turkish": "mentol"
+  },
+  {
+      "english": "menu",
+      "turkish": "menü"
+  },
+  {
+      "english": "meridian",
+      "turkish": "meridyen"
+  },
+  {
+      "english": "message",
+      "turkish": "mesaj"
+  },
+  {
+      "english": "metal",
+      "turkish": "metal"
+  },
+  {
+      "english": "meteor",
+      "turkish": "meteor"
+  },
+  {
+      "english": "meteorology",
+      "turkish": "meteoroloji"
+  },
+  {
+      "english": "meter",
+      "turkish": "metre"
+  },
+  {
+      "english": "methane",
+      "turkish": "metan"
+  },
+  {
+      "english": "method",
+      "turkish": "metot"
+  },
+  {
+      "english": "metro",
+      "turkish": "metro"
+  },
+  {
+      "english": "metropolis",
+      "turkish": "metropol"
+  },
+  {
+      "english": "Mexico",
+      "turkish": "Meksika"
+  },
+  {
+      "english": "microbe",
+      "turkish": "mikrop"
+  },
+  {
+      "english": "microphone",
+      "turkish": "mikrofon"
+  },
+  {
+      "english": "microscope",
+      "turkish": "mikroskop"
+  },
+  {
+      "english": "militant",
+      "turkish": "militan"
+  },
+  {
+      "english": "millimeter",
+      "turkish": "milimetre"
+  },
+  {
+      "english": "million",
+      "turkish": "milyon"
+  },
+  {
+      "english": "minaret",
+      "turkish": "minare"
+  },
+  {
+      "english": "mine",
+      "turkish": "mayın"
+  },
+  {
+      "english": "mineral",
+      "turkish": "mineral"
+  },
+  {
+      "english": "miniature",
+      "turkish": "minyatür"
+  },
+  {
+      "english": "minibus",
+      "turkish": "minibüs"
+  },
+  {
+      "english": "minimum",
+      "turkish": "minimum"
+  },
+  {
+      "english": "minor",
+      "turkish": "minör"
+  },
+  {
+      "english": "mission",
+      "turkish": "misyon"
+  },
+  {
+      "english": "mixer",
+      "turkish": "mikser"
+  },
+  {
+      "english": "model",
+      "turkish": "model"
+  },
+  {
+      "english": "modem",
+      "turkish": "modem"
+  },
+  {
+      "english": "modernize",
+      "turkish": "modernize"
+  },
+  {
+      "english": "modified",
+      "turkish": "modifiye"
+  },
+  {
+      "english": "monastery",
+      "turkish": "manastır"
+  },
+  {
+      "english": "monitor",
+      "turkish": "monitör"
+  },
+  {
+      "english": "monograph",
+      "turkish": "monografi"
+  },
+  {
+      "english": "monotone",
+      "turkish": "monoton"
+  },
+  {
+      "english": "montage",
+      "turkish": "montaj"
+  },
+  {
+      "english": "moron",
+      "turkish": "moron"
+  },
+  {
+      "english": "morphine",
+      "turkish": "morfin"
+  },
+  {
+      "english": "mosaic",
+      "turkish": "mozaik"
+  },
+  {
+      "english": "Moscow",
+      "turkish": "Moskova"
+  },
+  {
+      "english": "motel",
+      "turkish": "motel"
+  },
+  {
+      "english": "motor",
+      "turkish": "motor"
+  },
+  {
+      "english": "Mozambique",
+      "turkish": "Mozambik"
+  },
+  {
+      "english": "museum",
+      "turkish": "müze"
+  },
+  {
+      "english": "music",
+      "turkish": "müzik"
+  },
+  {
+      "english": "musical",
+      "turkish": "müzikal"
+  },
+  {
+      "english": "musician",
+      "turkish": "müzisyen"
+  },
+  {
+      "english": "mystic",
+      "turkish": "mistik"
+  },
+  {
+      "english": "mythology",
+      "turkish": "mitoloji"
+  },
+  {
+      "english": "narcotic",
+      "turkish": "narkotik"
+  },
+  {
+      "english": "natural",
+      "turkish": "natürel"
+  },
+  {
+      "english": "negative",
+      "turkish": "negatif"
+  },
+  {
+      "english": "neurology",
+      "turkish": "nöroloji"
+  },
+  {
+      "english": "neutral",
+      "turkish": "natürel"
+  },
+  {
+      "english": "niche",
+      "turkish": "niş"
+  },
+  {
+      "english": "nickel",
+      "turkish": "nikel"
+  },
+  {
+      "english": "nicotine",
+      "turkish": "nikotin"
+  },
+  {
+      "english": "nitrogen",
+      "turkish": "nitrojen"
+  },
+  {
+      "english": "norm",
+      "turkish": "norm"
+  },
+  {
+      "english": "normal",
+      "turkish": "normal"
+  },
+  {
+      "english": "nuance",
+      "turkish": "nüans"
+  },
+  {
+      "english": "nuclear",
+      "turkish": "nükleer"
+  },
+  {
+      "english": "nylon",
+      "turkish": "naylon"
+  },
+  {
+      "english": "obese",
+      "turkish": "obez"
+  },
+  {
+      "english": "object",
+      "turkish": "obje"
+  },
+  {
+      "english": "objective",
+      "turkish": "objektif"
+  },
+  {
+      "english": "occasion",
+      "turkish": "okazyon"
+  },
+  {
+      "english": "offside",
+      "turkish": "ofsayt"
+  },
+  {
+      "english": "okay",
+      "turkish": "okey"
+  },
+  {
+      "english": "omlette",
+      "turkish": "omlet"
+  },
+  {
+      "english": "oncology",
+      "turkish": "onkoloji"
+  },
+  {
+      "english": "opera",
+      "turkish": "opera"
+  },
+  {
+      "english": "operation",
+      "turkish": "operasyon"
+  },
+  {
+      "english": "optic",
+      "turkish": "optik"
+  },
+  {
+      "english": "optimistic",
+      "turkish": "optimist"
+  },
+  {
+      "english": "oral",
+      "turkish": "oral"
+  },
+  {
+      "english": "orchestra",
+      "turkish": "orkestra"
+  },
+  {
+      "english": "orchid",
+      "turkish": "orkide"
+  },
+  {
+      "english": "organ",
+      "turkish": "organ"
+  },
+  {
+      "english": "organic",
+      "turkish": "organik"
+  },
+  {
+      "english": "organization",
+      "turkish": "organizasyon"
+  },
+  {
+      "english": "original",
+      "turkish": "orijinal"
+  },
+  {
+      "english": "Orthodox",
+      "turkish": "Orthodox"
+  },
+  {
+      "english": "orthopedics",
+      "turkish": "ortopedi"
+  },
+  {
+      "english": "oval",
+      "turkish": "oval"
+  },
+  {
+      "english": "over",
+      "turkish": "lock"
+  },
+  {
+      "english": "oxygen",
+      "turkish": "oksijen"
+  },
+  {
+      "english": "ozone",
+      "turkish": "ozon"
+  },
+  {
+      "english": "pajamas",
+      "turkish": "pijama"
+  },
+  {
+      "english": "Pakistan",
+      "turkish": "Pakistan"
+  },
+  {
+      "english": "panorama",
+      "turkish": "panorama"
+  },
+  {
+      "english": "pancreas",
+      "turkish": "pankreas"
+  },
+  {
+      "english": "panda",
+      "turkish": "panda"
+  },
+  {
+      "english": "panel",
+      "turkish": "panel"
+  },
+  {
+      "english": "panic",
+      "turkish": "panik"
+  },
+  {
+      "english": "panther",
+      "turkish": "panter"
+  },
+  {
+      "english": "parachute",
+      "turkish": "paraşüt"
+  },
+  {
+      "english": "paradox",
+      "turkish": "paradoks"
+  },
+  {
+      "english": "paragraph",
+      "turkish": "paragraf"
+  },
+  {
+      "english": "parallel",
+      "turkish": "paralel"
+  },
+  {
+      "english": "paranoia",
+      "turkish": "paranoya"
+  },
+  {
+      "english": "parasite",
+      "turkish": "parazit"
+  },
+  {
+      "english": "parcel",
+      "turkish": "parsel"
+  },
+  {
+      "english": "Paris",
+      "turkish": "Paris"
+  },
+  {
+      "english": "park",
+      "turkish": "park"
+  },
+  {
+      "english": "parka",
+      "turkish": "parka"
+  },
+  {
+      "english": "parliament",
+      "turkish": "parlamento"
+  },
+  {
+      "english": "parody",
+      "turkish": "parodi"
+  },
+  {
+      "english": "particle",
+      "turkish": "partikül"
+  },
+  {
+      "english": "partisan",
+      "turkish": "partizan"
+  },
+  {
+      "english": "partner",
+      "turkish": "partner"
+  },
+  {
+      "english": "party",
+      "turkish": "parti"
+  },
+  {
+      "english": "passive",
+      "turkish": "pasif"
+  },
+  {
+      "english": "passport",
+      "turkish": "pasaport"
+  },
+  {
+      "english": "patent",
+      "turkish": "patent"
+  },
+  {
+      "english": "pathology",
+      "turkish": "patoloji"
+  },
+  {
+      "english": "pedagogy",
+      "turkish": "pedagoji"
+  },
+  {
+      "english": "pedal",
+      "turkish": "pedal"
+  },
+  {
+      "english": "pediatric",
+      "turkish": "pediatri"
+  },
+  {
+      "english": "pedicure",
+      "turkish": "pedikür"
+  },
+  {
+      "english": "pelican",
+      "turkish": "pelikan"
+  },
+  {
+      "english": "penguin",
+      "turkish": "penguen"
+  },
+  {
+      "english": "penicillin",
+      "turkish": "penisilin"
+  },
+  {
+      "english": "perfume",
+      "turkish": "parfüm"
+  },
+  {
+      "english": "personnel",
+      "turkish": "personel"
+  },
+  {
+      "english": "perspective",
+      "turkish": "perspektif"
+  },
+  {
+      "english": "pessimistic",
+      "turkish": "pesimist"
+  },
+  {
+      "english": "Philippines",
+      "turkish": "Filipinler"
+  },
+  {
+      "english": "philology",
+      "turkish": "filoloji"
+  },
+  {
+      "english": "philosopher",
+      "turkish": "filozof"
+  },
+  {
+      "english": "photocopy",
+      "turkish": "fotokopi"
+  },
+  {
+      "english": "photograph",
+      "turkish": "fotoğraf"
+  },
+  {
+      "english": "physical",
+      "turkish": "fiziksel"
+  },
+  {
+      "english": "physics",
+      "turkish": "fizik"
+  },
+  {
+      "english": "pianist",
+      "turkish": "piyanist"
+  },
+  {
+      "english": "piano",
+      "turkish": "piyano"
+  },
+  {
+      "english": "pick",
+      "turkish": "up"
+  },
+  {
+      "english": "picnic",
+      "turkish": "piknik"
+  },
+  {
+      "english": "piston",
+      "turkish": "piston"
+  },
+  {
+      "english": "pizza",
+      "turkish": "pizza"
+  },
+  {
+      "english": "plan",
+      "turkish": "plan"
+  },
+  {
+      "english": "plastic",
+      "turkish": "plastik"
+  },
+  {
+      "english": "platform",
+      "turkish": "platform"
+  },
+  {
+      "english": "platinum",
+      "turkish": "platin"
+  },
+  {
+      "english": "plaza",
+      "turkish": "plaza"
+  },
+  {
+      "english": "poker",
+      "turkish": "poker"
+  },
+  {
+      "english": "polemic",
+      "turkish": "polemik"
+  },
+  {
+      "english": "policeman",
+      "turkish": "polis"
+  },
+  {
+      "english": "politic",
+      "turkish": "politik"
+  },
+  {
+      "english": "politics",
+      "turkish": "politika"
+  },
+  {
+      "english": "polo",
+      "turkish": "polo"
+  },
+  {
+      "english": "polyester",
+      "turkish": "polyester"
+  },
+  {
+      "english": "pop",
+      "turkish": "pop"
+  },
+  {
+      "english": "porcelain",
+      "turkish": "porselen"
+  },
+  {
+      "english": "position",
+      "turkish": "pozisyon"
+  },
+  {
+      "english": "positive",
+      "turkish": "pozitif"
+  },
+  {
+      "english": "poster",
+      "turkish": "poster"
+  },
+  {
+      "english": "potato",
+      "turkish": "patates"
+  },
+  {
+      "english": "potential",
+      "turkish": "potansiyel"
+  },
+  {
+      "english": "presentation",
+      "turkish": "prezentasyon"
+  },
+  {
+      "english": "press",
+      "turkish": "pres"
+  },
+  {
+      "english": "prestige",
+      "turkish": "prestij"
+  },
+  {
+      "english": "primitive",
+      "turkish": "primitif"
+  },
+  {
+      "english": "prince",
+      "turkish": "prens"
+  },
+  {
+      "english": "princess",
+      "turkish": "prenses"
+  },
+  {
+      "english": "principle",
+      "turkish": "prensip"
+  },
+  {
+      "english": "printer",
+      "turkish": "printer"
+  },
+  {
+      "english": "problem",
+      "turkish": "problem"
+  },
+  {
+      "english": "professional",
+      "turkish": "profesyonel"
+  },
+  {
+      "english": "professor",
+      "turkish": "profesör"
+  },
+  {
+      "english": "profile",
+      "turkish": "profil"
+  },
+  {
+      "english": "program",
+      "turkish": "program"
+  },
+  {
+      "english": "project",
+      "turkish": "proje"
+  },
+  {
+      "english": "projector",
+      "turkish": "projektör"
+  },
+  {
+      "english": "protest",
+      "turkish": "protesto"
+  },
+  {
+      "english": "Protestant",
+      "turkish": "Protestan"
+  },
+  {
+      "english": "protocol",
+      "turkish": "protokol"
+  },
+  {
+      "english": "provocation",
+      "turkish": "provokasyon"
+  },
+  {
+      "english": "pudding",
+      "turkish": "puding"
+  },
+  {
+      "english": "pump",
+      "turkish": "pompa"
+  },
+  {
+      "english": "pyramid",
+      "turkish": "piramit"
+  },
+  {
+      "english": "quality",
+      "turkish": "kalite"
+  },
+  {
+      "english": "Quran",
+      "turkish": "Kur’an"
+  },
+  {
+      "english": "raccoon",
+      "turkish": "rakun"
+  },
+  {
+      "english": "racket",
+      "turkish": "raket"
+  },
+  {
+      "english": "radar",
+      "turkish": "radar"
+  },
+  {
+      "english": "radical",
+      "turkish": "radikal"
+  },
+  {
+      "english": "radiology",
+      "turkish": "radyoloji"
+  },
+  {
+      "english": "radium",
+      "turkish": "radyum"
+  },
+  {
+      "english": "raki",
+      "turkish": "rakı"
+  },
+  {
+      "english": "rally",
+      "turkish": "ralli"
+  },
+  {
+      "english": "Ramadan",
+      "turkish": "Ramazan"
+  },
+  {
+      "english": "ramp",
+      "turkish": "rampa"
+  },
+  {
+      "english": "rating",
+      "turkish": "reyting"
+  },
+  {
+      "english": "realism",
+      "turkish": "realizm"
+  },
+  {
+      "english": "reality",
+      "turkish": "realite"
+  },
+  {
+      "english": "reception",
+      "turkish": "resepsiyon"
+  },
+  {
+      "english": "recital",
+      "turkish": "resital"
+  },
+  {
+      "english": "rector",
+      "turkish": "rektör"
+  },
+  {
+      "english": "reference",
+      "turkish": "referans"
+  },
+  {
+      "english": "referendum",
+      "turkish": "referandum"
+  },
+  {
+      "english": "reflector",
+      "turkish": "reflektör"
+  },
+  {
+      "english": "reflex",
+      "turkish": "refleks"
+  },
+  {
+      "english": "reform",
+      "turkish": "reform"
+  },
+  {
+      "english": "report",
+      "turkish": "rapor"
+  },
+  {
+      "english": "reservation",
+      "turkish": "rezervasyon"
+  },
+  {
+      "english": "reserve",
+      "turkish": "rezerv"
+  },
+  {
+      "english": "residence",
+      "turkish": "rezidans"
+  },
+  {
+      "english": "restaurant",
+      "turkish": "restoran"
+  },
+  {
+      "english": "rhytm",
+      "turkish": "ritim"
+  },
+  {
+      "english": "risk",
+      "turkish": "risk"
+  },
+  {
+      "english": "robot",
+      "turkish": "robot"
+  },
+  {
+      "english": "rocket",
+      "turkish": "roket"
+  },
+  {
+      "english": "rod",
+      "turkish": "balance"
+  },
+  {
+      "english": "role",
+      "turkish": "rol"
+  },
+  {
+      "english": "routine",
+      "turkish": "rutin"
+  },
+  {
+      "english": "rugby",
+      "turkish": "ragbi"
+  },
+  {
+      "english": "sabotage",
+      "turkish": "sabotaj"
+  },
+  {
+      "english": "sadism",
+      "turkish": "sadizm"
+  },
+  {
+      "english": "safari",
+      "turkish": "safari"
+  },
+  {
+      "english": "saffron",
+      "turkish": "safran"
+  },
+  {
+      "english": "salad",
+      "turkish": "salata"
+  },
+  {
+      "english": "sandwich",
+      "turkish": "sandviç"
+  },
+  {
+      "english": "sauce",
+      "turkish": "sos"
+  },
+  {
+      "english": "sauna",
+      "turkish": "sauna"
+  },
+  {
+      "english": "scandal",
+      "turkish": "skandal"
+  },
+  {
+      "english": "score",
+      "turkish": "skor"
+  },
+  {
+      "english": "season",
+      "turkish": "sezon"
+  },
+  {
+      "english": "secretary",
+      "turkish": "sekreter"
+  },
+  {
+      "english": "sector",
+      "turkish": "sektör"
+  },
+  {
+      "english": "seminar",
+      "turkish": "seminer"
+  },
+  {
+      "english": "serum",
+      "turkish": "serum"
+  },
+  {
+      "english": "service",
+      "turkish": "servis"
+  },
+  {
+      "english": "sex",
+      "turkish": "seks"
+  },
+  {
+      "english": "shampoo",
+      "turkish": "şampuan"
+  },
+  {
+      "english": "sheriff",
+      "turkish": "şerif"
+  },
+  {
+      "english": "shish",
+      "turkish": "şiş"
+  },
+  {
+      "english": "shock",
+      "turkish": "şok"
+  },
+  {
+      "english": "shoot",
+      "turkish": "şut"
+  },
+  {
+      "english": "shorts",
+      "turkish": "şort"
+  },
+  {
+      "english": "showman",
+      "turkish": "şov"
+  },
+  {
+      "english": "simulation",
+      "turkish": "simülasyon"
+  },
+  {
+      "english": "simultaneous",
+      "turkish": "simültane"
+  },
+  {
+      "english": "Singapore",
+      "turkish": "Singapur"
+  },
+  {
+      "english": "siren",
+      "turkish": "siren"
+  },
+  {
+      "english": "slide",
+      "turkish": "slayt"
+  },
+  {
+      "english": "slogan",
+      "turkish": "slogan"
+  },
+  {
+      "english": "Slovakia",
+      "turkish": "Slovakya"
+  },
+  {
+      "english": "Slovenia",
+      "turkish": "Slovenya"
+  },
+  {
+      "english": "social",
+      "turkish": "sosyal"
+  },
+  {
+      "english": "socialist",
+      "turkish": "sosyalist"
+  },
+  {
+      "english": "soda",
+      "turkish": "soda"
+  },
+  {
+      "english": "Sofia",
+      "turkish": "Sofya"
+  },
+  {
+      "english": "solarium",
+      "turkish": "solaryum"
+  },
+  {
+      "english": "Spain",
+      "turkish": "İspanya"
+  },
+  {
+      "english": "spasm",
+      "turkish": "spazm"
+  },
+  {
+      "english": "special",
+      "turkish": "spesiyal"
+  },
+  {
+      "english": "specific",
+      "turkish": "spesifik"
+  },
+  {
+      "english": "sponsor",
+      "turkish": "sponsor"
+  },
+  {
+      "english": "spontaneous",
+      "turkish": "spontane"
+  },
+  {
+      "english": "sport",
+      "turkish": "spor"
+  },
+  {
+      "english": "spray",
+      "turkish": "sprey"
+  },
+  {
+      "english": "stadium",
+      "turkish": "stadyum"
+  },
+  {
+      "english": "standard",
+      "turkish": "standart"
+  },
+  {
+      "english": "star",
+      "turkish": "star"
+  },
+  {
+      "english": "static",
+      "turkish": "statik"
+  },
+  {
+      "english": "station",
+      "turkish": "istasyon"
+  },
+  {
+      "english": "step",
+      "turkish": "step"
+  },
+  {
+      "english": "sterling",
+      "turkish": "sterlin"
+  },
+  {
+      "english": "sticker",
+      "turkish": "stikır"
+  },
+  {
+      "english": "stock",
+      "turkish": "stok"
+  },
+  {
+      "english": "stress",
+      "turkish": "stres"
+  },
+  {
+      "english": "style",
+      "turkish": "stil"
+  },
+  {
+      "english": "super",
+      "turkish": "süper"
+  },
+  {
+      "english": "surfing",
+      "turkish": "sörf"
+  },
+  {
+      "english": "surprise",
+      "turkish": "sürpriz"
+  },
+  {
+      "english": "sushi",
+      "turkish": "suşi"
+  },
+  {
+      "english": "symbol",
+      "turkish": "sembol"
+  },
+  {
+      "english": "sympathetic",
+      "turkish": "sempatik"
+  },
+  {
+      "english": "sympathy",
+      "turkish": "sempati"
+  },
+  {
+      "english": "symptom",
+      "turkish": "semptom"
+  },
+  {
+      "english": "synchronous",
+      "turkish": "senkron"
+  },
+  {
+      "english": "syrup",
+      "turkish": "şurup"
+  },
+  {
+      "english": "system",
+      "turkish": "sistem"
+  },
+  {
+      "english": "tablet",
+      "turkish": "tablet"
+  },
+  {
+      "english": "tactic",
+      "turkish": "taktik"
+  },
+  {
+      "english": "taekwondo",
+      "turkish": "tekvando"
+  },
+  {
+      "english": "Taiwan",
+      "turkish": "Tayvan"
+  },
+  {
+      "english": "tango",
+      "turkish": "tango"
+  },
+  {
+      "english": "tanker",
+      "turkish": "tanker"
+  },
+  {
+      "english": "taxi",
+      "turkish": "taksi"
+  },
+  {
+      "english": "technical",
+      "turkish": "teknik"
+  },
+  {
+      "english": "Tehran",
+      "turkish": "Tahran"
+  },
+  {
+      "english": "teknology",
+      "turkish": "teknoloji"
+  },
+  {
+      "english": "telephone",
+      "turkish": "telefon"
+  },
+  {
+      "english": "telescope",
+      "turkish": "teleskop"
+  },
+  {
+      "english": "television",
+      "turkish": "televizyon"
+  },
+  {
+      "english": "tennis",
+      "turkish": "tenis"
+  },
+  {
+      "english": "tequila",
+      "turkish": "tekila"
+  },
+  {
+      "english": "terminal",
+      "turkish": "terminal"
+  },
+  {
+      "english": "terror",
+      "turkish": "terör"
+  },
+  {
+      "english": "terrorist",
+      "turkish": "terörist"
+  },
+  {
+      "english": "test",
+      "turkish": "test"
+  },
+  {
+      "english": "textile",
+      "turkish": "tekstil"
+  },
+  {
+      "english": "Thailand",
+      "turkish": "Tayland"
+  },
+  {
+      "english": "theoretical",
+      "turkish": "teorik"
+  },
+  {
+      "english": "theory",
+      "turkish": "teori"
+  },
+  {
+      "english": "therapy",
+      "turkish": "terapi"
+  },
+  {
+      "english": "thermal",
+      "turkish": "termal"
+  },
+  {
+      "english": "thermometer",
+      "turkish": "termometre"
+  },
+  {
+      "english": "thermos",
+      "turkish": "termos"
+  },
+  {
+      "english": "thinner",
+      "turkish": "tiner"
+  },
+  {
+      "english": "tick",
+      "turkish": "tik"
+  },
+  {
+      "english": "toilet",
+      "turkish": "tuvalet"
+  },
+  {
+      "english": "Tokyo",
+      "turkish": "Tokyo"
+  },
+  {
+      "english": "tolerance",
+      "turkish": "tolerans"
+  },
+  {
+      "english": "tonic",
+      "turkish": "tonik"
+  },
+  {
+      "english": "tour",
+      "turkish": "tur"
+  },
+  {
+      "english": "tourism",
+      "turkish": "turizm"
+  },
+  {
+      "english": "tourist",
+      "turkish": "turist"
+  },
+  {
+      "english": "tractor",
+      "turkish": "traktör"
+  },
+  {
+      "english": "traffic",
+      "turkish": "trafik"
+  },
+  {
+      "english": "tragedy",
+      "turkish": "trajedi"
+  },
+  {
+      "english": "train",
+      "turkish": "tren"
+  },
+  {
+      "english": "transfer",
+      "turkish": "transfer"
+  },
+  {
+      "english": "transit",
+      "turkish": "transit"
+  },
+  {
+      "english": "transparent",
+      "turkish": "transparan"
+  },
+  {
+      "english": "trauma",
+      "turkish": "travma"
+  },
+  {
+      "english": "trend",
+      "turkish": "trend"
+  },
+  {
+      "english": "t-shirt",
+      "turkish": "tişört"
+  },
+  {
+      "english": "tunnel",
+      "turkish": "tünel"
+  },
+  {
+      "english": "turban",
+      "turkish": "türban"
+  },
+  {
+      "english": "Turkmenistan",
+      "turkish": "Türkmenistan"
+  },
+  {
+      "english": "typhoon",
+      "turkish": "tayfun"
+  },
+  {
+      "english": "Ukraine",
+      "turkish": "Ukrayna"
+  },
+  {
+      "english": "ultimatum",
+      "turkish": "ültimatom"
+  },
+  {
+      "english": "ultrason",
+      "turkish": "ultrason"
+  },
+  {
+      "english": "ultrasonic",
+      "turkish": "ultrasonik"
+  },
+  {
+      "english": "uniform",
+      "turkish": "üniforma"
+  },
+  {
+      "english": "unit",
+      "turkish": "ünite"
+  },
+  {
+      "english": "universal",
+      "turkish": "üniversal"
+  },
+  {
+      "english": "university",
+      "turkish": "üniversite"
+  },
+  {
+      "english": "uranium",
+      "turkish": "uranyum"
+  },
+  {
+      "english": "urology",
+      "turkish": "üroloji"
+  },
+  {
+      "english": "utopia",
+      "turkish": "ütopya"
+  },
+  {
+      "english": "vacuum",
+      "turkish": "vakum"
+  },
+  {
+      "english": "vanilla",
+      "turkish": "vanilya"
+  },
+  {
+      "english": "vase",
+      "turkish": "vazo"
+  },
+  {
+      "english": "Vatican",
+      "turkish": "Vatikan"
+  },
+  {
+      "english": "vegetarian",
+      "turkish": "vejeteryan"
+  },
+  {
+      "english": "veranda",
+      "turkish": "veranda"
+  },
+  {
+      "english": "version",
+      "turkish": "versiyon"
+  },
+  {
+      "english": "vibration",
+      "turkish": "vibrasyon"
+  },
+  {
+      "english": "video",
+      "turkish": "video"
+  },
+  {
+      "english": "Vietnam",
+      "turkish": "Vietnam"
+  },
+  {
+      "english": "villa",
+      "turkish": "villa"
+  },
+  {
+      "english": "viola",
+      "turkish": "viyola"
+  },
+  {
+      "english": "virus",
+      "turkish": "virüs"
+  },
+  {
+      "english": "visa",
+      "turkish": "vize"
+  },
+  {
+      "english": "vision",
+      "turkish": "vizyon"
+  },
+  {
+      "english": "vitamin",
+      "turkish": "vitamin"
+  },
+  {
+      "english": "vocal",
+      "turkish": "vokal"
+  },
+  {
+      "english": "vodka",
+      "turkish": "votka"
+  },
+  {
+      "english": "volcano",
+      "turkish": "volkan"
+  },
+  {
+      "english": "volleyball",
+      "turkish": "voleybol"
+  },
+  {
+      "english": "whiskey",
+      "turkish": "viski"
+  },
+  {
+      "english": "yacht",
+      "turkish": "yat"
+  },
+  {
+      "english": "yoga",
+      "turkish": "yoga"
+  },
+  {
+      "english": "yoghurt",
+      "turkish": "yoğurt"
+  },
+  {
+      "english": "zebra",
+      "turkish": "zebra"
+  },
+  {
+      "english": "zoology",
+      "turkish": "zooloji"
+  },
+  {
+      "english": "a",
+      "turkish": "bir"
+  },
+  {
+      "english": "able",
+      "turkish": "yapabilen"
+  },
+  {
+      "english": "about",
+      "turkish": "hakkında"
+  },
+  {
+      "english": "above",
+      "turkish": "üstünde"
+  },
+  {
+      "english": "across",
+      "turkish": "karşısında"
+  },
+  {
+      "english": "act",
+      "turkish": "hareket, eylem"
+  },
+  {
+      "english": "actually",
+      "turkish": "aslında"
+  },
+  {
+      "english": "add",
+      "turkish": "eklemek"
+  },
+  {
+      "english": "addition",
+      "turkish": "ek olarak"
+  },
+  {
+      "english": "adjective",
+      "turkish": "sıfat"
+  },
+  {
+      "english": "afraid",
+      "turkish": "korkmuş"
+  },
+  {
+      "english": "after",
+      "turkish": "sonra"
+  },
+  {
+      "english": "again",
+      "turkish": "yeniden, yine"
+  },
+  {
+      "english": "against",
+      "turkish": "karşısında"
+  },
+  {
+      "english": "age",
+      "turkish": "yaş"
+  },
+  {
+      "english": "ago",
+      "turkish": "önce"
+  },
+  {
+      "english": "agreed",
+      "turkish": "anlaşıldı, kararlaştırıldı"
+  },
+  {
+      "english": "ahead",
+      "turkish": "önünde"
+  },
+  {
+      "english": "air",
+      "turkish": "hava"
+  },
+  {
+      "english": "all",
+      "turkish": "hepsi"
+  },
+  {
+      "english": "allow",
+      "turkish": "izin vermek"
+  },
+  {
+      "english": "almost",
+      "turkish": "neredeyse"
+  },
+  {
+      "english": "alone",
+      "turkish": "yalnız"
+  },
+  {
+      "english": "along",
+      "turkish": "boyunca"
+  },
+  {
+      "english": "already",
+      "turkish": "zaten"
+  },
+  {
+      "english": "also",
+      "turkish": "ayrıca"
+  },
+  {
+      "english": "although",
+      "turkish": "rağmen"
+  },
+  {
+      "english": "always",
+      "turkish": "her zaman"
+  },
+  {
+      "english": "am",
+      "turkish": "gece 12 ile gündüz 12 arası saat dilimi"
+  },
+  {
+      "english": "America",
+      "turkish": "Amerika"
+  },
+  {
+      "english": "among",
+      "turkish": "arasında"
+  },
+  {
+      "english": "amount",
+      "turkish": "miktar"
+  },
+  {
+      "english": "an",
+      "turkish": "bir tek"
+  },
+  {
+      "english": "and",
+      "turkish": "ve"
+  },
+  {
+      "english": "angle",
+      "turkish": "açı"
+  },
+  {
+      "english": "animal",
+      "turkish": "hayvan"
+  },
+  {
+      "english": "another",
+      "turkish": "diğer"
+  },
+  {
+      "english": "answer",
+      "turkish": "cevap"
+  },
+  {
+      "english": "any",
+      "turkish": "herhangi"
+  },
+  {
+      "english": "anything",
+      "turkish": "hiçbir şey"
+  },
+  {
+      "english": "appear",
+      "turkish": "gözükmek"
+  },
+  {
+      "english": "apple",
+      "turkish": "elma"
+  },
+  {
+      "english": "are",
+      "turkish": "olmak fiili"
+  },
+  {
+      "english": "area",
+      "turkish": "bölge"
+  },
+  {
+      "english": "arms",
+      "turkish": "kollar"
+  },
+  {
+      "english": "army",
+      "turkish": "ordu"
+  },
+  {
+      "english": "around",
+      "turkish": "etraf"
+  },
+  {
+      "english": "arrived",
+      "turkish": "varmak (geçmiş zaman)"
+  },
+  {
+      "english": "art",
+      "turkish": "sanat"
+  },
+  {
+      "english": "as",
+      "turkish": "iken"
+  },
+  {
+      "english": "ask",
+      "turkish": "sormak"
+  },
+  {
+      "english": "at",
+      "turkish": "-de, -da"
+  },
+  {
+      "english": "away",
+      "turkish": "uzak"
+  },
+  {
+      "english": "baby",
+      "turkish": "bebek"
+  },
+  {
+      "english": "back",
+      "turkish": "arka"
+  },
+  {
+      "english": "bad",
+      "turkish": "kötü"
+  },
+  {
+      "english": "ball",
+      "turkish": "top"
+  },
+  {
+      "english": "base",
+      "turkish": "temel"
+  },
+  {
+      "english": "be",
+      "turkish": "olmak"
+  },
+  {
+      "english": "bear",
+      "turkish": "ayı"
+  },
+  {
+      "english": "beat",
+      "turkish": "yenmek"
+  },
+  {
+      "english": "beautiful",
+      "turkish": "güzel"
+  },
+  {
+      "english": "became",
+      "turkish": "olmak (geçmiş zaman)"
+  },
+  {
+      "english": "because",
+      "turkish": "çünkü"
+  },
+  {
+      "english": "become",
+      "turkish": "olmak"
+  },
+  {
+      "english": "bed",
+      "turkish": "yatak"
+  },
+  {
+      "english": "been",
+      "turkish": "olmak (geçmiş zaman, pasif)"
+  },
+  {
+      "english": "before",
+      "turkish": "önce"
+  },
+  {
+      "english": "began",
+      "turkish": "başlamak (geçmiş zaman)"
+  },
+  {
+      "english": "begin",
+      "turkish": "başlamak"
+  },
+  {
+      "english": "behind",
+      "turkish": "arka"
+  },
+  {
+      "english": "being",
+      "turkish": "olmak (şimdiki zaman)"
+  },
+  {
+      "english": "believe",
+      "turkish": "inanmak"
+  },
+  {
+      "english": "bell",
+      "turkish": "zil"
+  },
+  {
+      "english": "belong",
+      "turkish": "ait olmak"
+  },
+  {
+      "english": "below",
+      "turkish": "altında"
+  },
+  {
+      "english": "beside",
+      "turkish": "yanında"
+  },
+  {
+      "english": "best",
+      "turkish": "en iyi"
+  },
+  {
+      "english": "better",
+      "turkish": "daha iyi"
+  },
+  {
+      "english": "between",
+      "turkish": "arasında"
+  },
+  {
+      "english": "big",
+      "turkish": "büyük"
+  },
+  {
+      "english": "bill",
+      "turkish": "fatura"
+  },
+  {
+      "english": "birds",
+      "turkish": "kuşlar"
+  },
+  {
+      "english": "bit",
+      "turkish": "küçük parça"
+  },
+  {
+      "english": "black",
+      "turkish": "siyah"
+  },
+  {
+      "english": "blood",
+      "turkish": "kan"
+  },
+  {
+      "english": "blow",
+      "turkish": "patlatmak"
+  },
+  {
+      "english": "blue",
+      "turkish": "mavi"
+  },
+  {
+      "english": "board",
+      "turkish": "tablo"
+  },
+  {
+      "english": "body",
+      "turkish": "vücut"
+  },
+  {
+      "english": "bone",
+      "turkish": "kemik"
+  },
+  {
+      "english": "book",
+      "turkish": "kitap"
+  },
+  {
+      "english": "born",
+      "turkish": "doğmuş"
+  },
+  {
+      "english": "both",
+      "turkish": "ikisi de"
+  },
+  {
+      "english": "bottom",
+      "turkish": "dip"
+  },
+  {
+      "english": "box",
+      "turkish": "kutu"
+  },
+  {
+      "english": "boy",
+      "turkish": "erkek çocuk"
+  },
+  {
+      "english": "break",
+      "turkish": "kırmak"
+  },
+  {
+      "english": "bright",
+      "turkish": "parlak"
+  },
+  {
+      "english": "bring",
+      "turkish": "getirmek"
+  },
+  {
+      "english": "British",
+      "turkish": "Britanyalı"
+  },
+  {
+      "english": "broken",
+      "turkish": "kırık"
+  },
+  {
+      "english": "brought",
+      "turkish": "getirilmiş"
+  },
+  {
+      "english": "brown",
+      "turkish": "kahverengi"
+  },
+  {
+      "english": "build",
+      "turkish": "bina etmek"
+  },
+  {
+      "english": "building",
+      "turkish": "bina"
+  },
+  {
+      "english": "built",
+      "turkish": "bina edilmiş"
+  },
+  {
+      "english": "burn",
+      "turkish": "yanmak"
+  },
+  {
+      "english": "business",
+      "turkish": "işletme"
+  },
+  {
+      "english": "but",
+      "turkish": "fakat"
+  },
+  {
+      "english": "buy",
+      "turkish": "satın almak"
+  },
+  {
+      "english": "by",
+      "turkish": "tarafından"
+  },
+  {
+      "english": "call",
+      "turkish": "aramak"
+  },
+  {
+      "english": "came",
+      "turkish": "geldi"
+  },
+  {
+      "english": "can",
+      "turkish": "yapabilmek"
+  },
+  {
+      "english": "cannot",
+      "turkish": "yapamamak"
+  },
+  {
+      "english": "can &#8217;t",
+      "turkish": "yapamamak"
+  },
+  {
+      "english": "capital",
+      "turkish": "başken"
+  },
+  {
+      "english": "car",
+      "turkish": "araba"
+  },
+  {
+      "english": "care",
+      "turkish": "önemsemek"
+  },
+  {
+      "english": "carefully",
+      "turkish": "dikkatlice"
+  },
+  {
+      "english": "carry",
+      "turkish": "taşımak"
+  },
+  {
+      "english": "case",
+      "turkish": "dava, kılıf"
+  },
+  {
+      "english": "cat",
+      "turkish": "kedi"
+  },
+  {
+      "english": "catch",
+      "turkish": "yakalamak"
+  },
+  {
+      "english": "cattle",
+      "turkish": "inek"
+  },
+  {
+      "english": "caught",
+      "turkish": "yakalamak (geçmiş zaman)"
+  },
+  {
+      "english": "cause",
+      "turkish": "sebep"
+  },
+  {
+      "english": "cell",
+      "turkish": "hücre"
+  },
+  {
+      "english": "center",
+      "turkish": "merkez"
+  },
+  {
+      "english": "cent",
+      "turkish": "sent, para birimi"
+  },
+  {
+      "english": "century",
+      "turkish": "yüzyıl"
+  },
+  {
+      "english": "certain",
+      "turkish": "kesin"
+  },
+  {
+      "english": "chance",
+      "turkish": "şans"
+  },
+  {
+      "english": "change",
+      "turkish": "değişmek"
+  },
+  {
+      "english": "chart",
+      "turkish": "tablo"
+  },
+  {
+      "english": "check",
+      "turkish": "kontrol etmek"
+  },
+  {
+      "english": "chief",
+      "turkish": "şef"
+  },
+  {
+      "english": "child",
+      "turkish": "çocuk"
+  },
+  {
+      "english": "children",
+      "turkish": "çocuklar"
+  },
+  {
+      "english": "choose",
+      "turkish": "seçmek"
+  },
+  {
+      "english": "church",
+      "turkish": "kilise"
+  },
+  {
+      "english": "circle",
+      "turkish": "çember"
+  },
+  {
+      "english": "city",
+      "turkish": "şehir"
+  },
+  {
+      "english": "class",
+      "turkish": "sınıf"
+  },
+  {
+      "english": "clean",
+      "turkish": "temiz"
+  },
+  {
+      "english": "clear",
+      "turkish": "temizlemek"
+  },
+  {
+      "english": "climb",
+      "turkish": "tırmanmak"
+  },
+  {
+      "english": "close",
+      "turkish": "kapatmak"
+  },
+  {
+      "english": "cloth",
+      "turkish": "elbise"
+  },
+  {
+      "english": "cloud",
+      "turkish": "bulut"
+  },
+  {
+      "english": "coast",
+      "turkish": "kıyı"
+  },
+  {
+      "english": "cold",
+      "turkish": "soğuk"
+  },
+  {
+      "english": "color",
+      "turkish": "renk"
+  },
+  {
+      "english": "column",
+      "turkish": "kolon"
+  },
+  {
+      "english": "come",
+      "turkish": "gelmek"
+  },
+  {
+      "english": "common",
+      "turkish": "ortak"
+  },
+  {
+      "english": "company",
+      "turkish": "şirket"
+  },
+  {
+      "english": "compare",
+      "turkish": "karşılaştırmak"
+  },
+  {
+      "english": "complete",
+      "turkish": "tamamlanmış"
+  },
+  {
+      "english": "compound",
+      "turkish": "madde"
+  },
+  {
+      "english": "condition",
+      "turkish": "durum"
+  },
+  {
+      "english": "consider",
+      "turkish": "düşünmek"
+  },
+  {
+      "english": "consonant",
+      "turkish": "ünsüz harf"
+  },
+  {
+      "english": "contain",
+      "turkish": "içermek"
+  },
+  {
+      "english": "continue",
+      "turkish": "devam etmek"
+  },
+  {
+      "english": "control",
+      "turkish": "kontrol"
+  },
+  {
+      "english": "cook",
+      "turkish": "pişirmek"
+  },
+  {
+      "english": "cool",
+      "turkish": "soğuk"
+  },
+  {
+      "english": "corn",
+      "turkish": "mısır"
+  },
+  {
+      "english": "correct",
+      "turkish": "doğru"
+  },
+  {
+      "english": "cost",
+      "turkish": "masraf"
+  },
+  {
+      "english": "could",
+      "turkish": "yapabilmek (geçmiş zaman)"
+  },
+  {
+      "english": "couldn &#8217;t",
+      "turkish": "yapamamak (geçmiş)"
+  },
+  {
+      "english": "count",
+      "turkish": "saymak"
+  },
+  {
+      "english": "country",
+      "turkish": "ülke"
+  },
+  {
+      "english": "cover",
+      "turkish": "kapsamak"
+  },
+  {
+      "english": "cow",
+      "turkish": "inek"
+  },
+  {
+      "english": "create",
+      "turkish": "oluşturmak"
+  },
+  {
+      "english": "cry",
+      "turkish": "ağlamak"
+  },
+  {
+      "english": "crop",
+      "turkish": "ekin"
+  },
+  {
+      "english": "cross",
+      "turkish": "çapraz"
+  },
+  {
+      "english": "crowd",
+      "turkish": "kalabalık"
+  },
+  {
+      "english": "current",
+      "turkish": "mevcut"
+  },
+  {
+      "english": "cut",
+      "turkish": "kesmek"
+  },
+  {
+      "english": "dark",
+      "turkish": "karanlık"
+  },
+  {
+      "english": "day",
+      "turkish": "gün"
+  },
+  {
+      "english": "dead",
+      "turkish": "ölü"
+  },
+  {
+      "english": "deal",
+      "turkish": "anlaşma"
+  },
+  {
+      "english": "death",
+      "turkish": "ölüm"
+  },
+  {
+      "english": "decide",
+      "turkish": "karar vermek"
+  },
+  {
+      "english": "decimal",
+      "turkish": "ondalık"
+  },
+  {
+      "english": "describe",
+      "turkish": "açıklamak"
+  },
+  {
+      "english": "desert",
+      "turkish": "çöl"
+  },
+  {
+      "english": "details",
+      "turkish": "ayrıntılar"
+  },
+  {
+      "english": "determine",
+      "turkish": "belirlemek"
+  },
+  {
+      "english": "develope",
+      "turkish": "geliştirmek"
+  },
+  {
+      "english": "dictionary",
+      "turkish": "sözlük"
+  },
+  {
+      "english": "did",
+      "turkish": "yaptı"
+  },
+  {
+      "english": "didn &#8217;t",
+      "turkish": "yapmadı"
+  },
+  {
+      "english": "died",
+      "turkish": "öldü"
+  },
+  {
+      "english": "difference",
+      "turkish": "fark"
+  },
+  {
+      "english": "different",
+      "turkish": "farklı"
+  },
+  {
+      "english": "difficult",
+      "turkish": "zor"
+  },
+  {
+      "english": "direction",
+      "turkish": "yön"
+  },
+  {
+      "english": "discover",
+      "turkish": "keşfetmek"
+  },
+  {
+      "english": "distance",
+      "turkish": "mesafe"
+  },
+  {
+      "english": "divided",
+      "turkish": "bölünmüş"
+  },
+  {
+      "english": "division",
+      "turkish": "bölüm"
+  },
+  {
+      "english": "do",
+      "turkish": "yapmak"
+  },
+  {
+      "english": "does",
+      "turkish": "yapmak"
+  },
+  {
+      "english": "doesn &#8217;t",
+      "turkish": "yapmamak"
+  },
+  {
+      "english": "dog",
+      "turkish": "köpek"
+  },
+  {
+      "english": "done",
+      "turkish": "yapmak (geçmiş)"
+  },
+  {
+      "english": "don &#8217;t",
+      "turkish": "yapmamak"
+  },
+  {
+      "english": "door",
+      "turkish": "kapı"
+  },
+  {
+      "english": "down",
+      "turkish": "aşağı"
+  },
+  {
+      "english": "draw",
+      "turkish": "çizmek"
+  },
+  {
+      "english": "drawing",
+      "turkish": "çizim"
+  },
+  {
+      "english": "dress",
+      "turkish": "elbise"
+  },
+  {
+      "english": "drive",
+      "turkish": "araba kullanmak"
+  },
+  {
+      "english": "drop",
+      "turkish": "düşmek"
+  },
+  {
+      "english": "dry",
+      "turkish": "kuru"
+  },
+  {
+      "english": "during",
+      "turkish": "boyunca"
+  },
+  {
+      "english": "each",
+      "turkish": "her biri"
+  },
+  {
+      "english": "early",
+      "turkish": "erken"
+  },
+  {
+      "english": "ear",
+      "turkish": "kulak"
+  },
+  {
+      "english": "earth",
+      "turkish": "toprak, dünya"
+  },
+  {
+      "english": "east",
+      "turkish": "doğu"
+  },
+  {
+      "english": "easy",
+      "turkish": "kolay"
+  },
+  {
+      "english": "eat",
+      "turkish": "yemek"
+  },
+  {
+      "english": "edge",
+      "turkish": "kenar"
+  },
+  {
+      "english": "egg",
+      "turkish": "yumurta"
+  },
+  {
+      "english": "eight",
+      "turkish": "sekiz"
+  },
+  {
+      "english": "either",
+      "turkish": "ikisi de"
+  },
+  {
+      "english": "else",
+      "turkish": "diğer"
+  },
+  {
+      "english": "end",
+      "turkish": "son"
+  },
+  {
+      "english": "engine",
+      "turkish": "motor"
+  },
+  {
+      "english": "England",
+      "turkish": "İngiltere"
+  },
+  {
+      "english": "enjoy",
+      "turkish": "eğlenmek"
+  },
+  {
+      "english": "enough",
+      "turkish": "yeterli"
+  },
+  {
+      "english": "enter",
+      "turkish": "girmek"
+  },
+  {
+      "english": "entire",
+      "turkish": "tüm"
+  },
+  {
+      "english": "equal",
+      "turkish": "eşit"
+  },
+  {
+      "english": "equation",
+      "turkish": "denklem"
+  },
+  {
+      "english": "especially",
+      "turkish": "özellikle"
+  },
+  {
+      "english": "even",
+      "turkish": "eşit"
+  },
+  {
+      "english": "evening",
+      "turkish": "akşam"
+  },
+  {
+      "english": "ever",
+      "turkish": "hep"
+  },
+  {
+      "english": "every",
+      "turkish": "hepsi"
+  },
+  {
+      "english": "everyone",
+      "turkish": "herkes"
+  },
+  {
+      "english": "everything",
+      "turkish": "her şey"
+  },
+  {
+      "english": "exactly",
+      "turkish": "aynen"
+  },
+  {
+      "english": "example",
+      "turkish": "örnek"
+  },
+  {
+      "english": "except",
+      "turkish": "hariç"
+  },
+  {
+      "english": "exciting",
+      "turkish": "heyecan verici"
+  },
+  {
+      "english": "exercise",
+      "turkish": "egzersiz"
+  },
+  {
+      "english": "expect",
+      "turkish": "beklemek, ummak"
+  },
+  {
+      "english": "experience",
+      "turkish": "tecrübe"
+  },
+  {
+      "english": "experiment",
+      "turkish": "deney"
+  },
+  {
+      "english": "explain",
+      "turkish": "açıklamak"
+  },
+  {
+      "english": "eye",
+      "turkish": "göz"
+  },
+  {
+      "english": "face",
+      "turkish": "yüz"
+  },
+  {
+      "english": "fact",
+      "turkish": "gerçek"
+  },
+  {
+      "english": "factoriy",
+      "turkish": "fabrika"
+  },
+  {
+      "english": "factors",
+      "turkish": "faktörler"
+  },
+  {
+      "english": "fall",
+      "turkish": "düşmek"
+  },
+  {
+      "english": "family",
+      "turkish": "aile"
+  },
+  {
+      "english": "famous",
+      "turkish": "ünlü"
+  },
+  {
+      "english": "far",
+      "turkish": "uzak"
+  },
+  {
+      "english": "farm",
+      "turkish": "çiftlik"
+  },
+  {
+      "english": "farmer",
+      "turkish": "çiftçi"
+  },
+  {
+      "english": "fast",
+      "turkish": "hızlı"
+  },
+  {
+      "english": "father",
+      "turkish": "baba"
+  },
+  {
+      "english": "fear",
+      "turkish": "korku"
+  },
+  {
+      "english": "feel",
+      "turkish": "hissetmek"
+  },
+  {
+      "english": "feeling",
+      "turkish": "his"
+  },
+  {
+      "english": "feet",
+      "turkish": "ayaklar"
+  },
+  {
+      "english": "fell",
+      "turkish": "düşmüş"
+  },
+  {
+      "english": "felt",
+      "turkish": "hissetmiş"
+  },
+  {
+      "english": "few",
+      "turkish": "birkaç"
+  },
+  {
+      "english": "field",
+      "turkish": "alan"
+  },
+  {
+      "english": "fig",
+      "turkish": "incir"
+  },
+  {
+      "english": "fight",
+      "turkish": "kavga"
+  },
+  {
+      "english": "figure",
+      "turkish": "figür"
+  },
+  {
+      "english": "filled",
+      "turkish": "doldurulmuş"
+  },
+  {
+      "english": "finally",
+      "turkish": "nihayetinde"
+  },
+  {
+      "english": "find",
+      "turkish": "bulmak"
+  },
+  {
+      "english": "fine",
+      "turkish": "iyi"
+  },
+  {
+      "english": "fingers",
+      "turkish": "parmaklar"
+  },
+  {
+      "english": "finished",
+      "turkish": "bitmiş"
+  },
+  {
+      "english": "fire",
+      "turkish": "ateş"
+  },
+  {
+      "english": "first",
+      "turkish": "birinci"
+  },
+  {
+      "english": "fish",
+      "turkish": "balık"
+  },
+  {
+      "english": "fit",
+      "turkish": "uymak"
+  },
+  {
+      "english": "five",
+      "turkish": "beş"
+  },
+  {
+      "english": "flat",
+      "turkish": "düz"
+  },
+  {
+      "english": "floor",
+      "turkish": "zemin"
+  },
+  {
+      "english": "flow",
+      "turkish": "akmak"
+  },
+  {
+      "english": "flowers",
+      "turkish": "çiçekler"
+  },
+  {
+      "english": "fly",
+      "turkish": "uçmak"
+  },
+  {
+      "english": "follow",
+      "turkish": "takip etmek"
+  },
+  {
+      "english": "food",
+      "turkish": "yemek"
+  },
+  {
+      "english": "foot",
+      "turkish": "ayak"
+  },
+  {
+      "english": "for",
+      "turkish": "için"
+  },
+  {
+      "english": "forest",
+      "turkish": "orman"
+  },
+  {
+      "english": "form",
+      "turkish": "yapı"
+  },
+  {
+      "english": "forward",
+      "turkish": "ileri"
+  },
+  {
+      "english": "found",
+      "turkish": "bulunmuş"
+  },
+  {
+      "english": "four",
+      "turkish": "dört"
+  },
+  {
+      "english": "free",
+      "turkish": "bedava"
+  },
+  {
+      "english": "French",
+      "turkish": "Fransız"
+  },
+  {
+      "english": "fresh",
+      "turkish": "taze"
+  },
+  {
+      "english": "friends",
+      "turkish": "arkadaşlar"
+  },
+  {
+      "english": "from",
+      "turkish": "tarafından"
+  },
+  {
+      "english": "front",
+      "turkish": "ön"
+  },
+  {
+      "english": "fruit",
+      "turkish": "meyve"
+  },
+  {
+      "english": "full",
+      "turkish": "tam"
+  },
+  {
+      "english": "fun",
+      "turkish": "eğlence"
+  },
+  {
+      "english": "game",
+      "turkish": "oyun"
+  },
+  {
+      "english": "garden",
+      "turkish": "bahçe"
+  },
+  {
+      "english": "gave",
+      "turkish": "verdi"
+  },
+  {
+      "english": "get",
+      "turkish": "almak"
+  },
+  {
+      "english": "girl",
+      "turkish": "kız"
+  },
+  {
+      "english": "give",
+      "turkish": "vermek"
+  },
+  {
+      "english": "glass",
+      "turkish": "cam"
+  },
+  {
+      "english": "go",
+      "turkish": "gitmek"
+  },
+  {
+      "english": "God",
+      "turkish": "tanrı"
+  },
+  {
+      "english": "gold",
+      "turkish": "altın"
+  },
+  {
+      "english": "gone",
+      "turkish": "gitmiş"
+  },
+  {
+      "english": "good",
+      "turkish": "güzel"
+  },
+  {
+      "english": "got",
+      "turkish": "sahip olmak"
+  },
+  {
+      "english": "government",
+      "turkish": "hükümet"
+  },
+  {
+      "english": "grass",
+      "turkish": "çimen"
+  },
+  {
+      "english": "great",
+      "turkish": "müthiş"
+  },
+  {
+      "english": "Greek",
+      "turkish": "Yunan"
+  },
+  {
+      "english": "green",
+      "turkish": "yeşil"
+  },
+  {
+      "english": "grew",
+      "turkish": "büyümüş"
+  },
+  {
+      "english": "ground",
+      "turkish": "zemin"
+  },
+  {
+      "english": "grow",
+      "turkish": "büyümek"
+  },
+  {
+      "english": "guess",
+      "turkish": "tahmin etmek"
+  },
+  {
+      "english": "gun",
+      "turkish": "silah"
+  },
+  {
+      "english": "had",
+      "turkish": "sahip olmak (geçmiş)"
+  },
+  {
+      "english": "hair",
+      "turkish": "saç"
+  },
+  {
+      "english": "halt",
+      "turkish": "durmak"
+  },
+  {
+      "english": "hand",
+      "turkish": "el"
+  },
+  {
+      "english": "happen",
+      "turkish": "olmak"
+  },
+  {
+      "english": "happy",
+      "turkish": "mutlu"
+  },
+  {
+      "english": "hard",
+      "turkish": "zor"
+  },
+  {
+      "english": "has",
+      "turkish": "sahip olmak"
+  },
+  {
+      "english": "hat",
+      "turkish": "şapka"
+  },
+  {
+      "english": "have",
+      "turkish": "sahip olmak"
+  },
+  {
+      "english": "he",
+      "turkish": "erkek"
+  },
+  {
+      "english": "head",
+      "turkish": "baş"
+  },
+  {
+      "english": "hear",
+      "turkish": "duymak"
+  },
+  {
+      "english": "heard",
+      "turkish": "duydu"
+  },
+  {
+      "english": "heart",
+      "turkish": "kalp"
+  },
+  {
+      "english": "heat",
+      "turkish": "ısı"
+  },
+  {
+      "english": "heavy",
+      "turkish": "ağır"
+  },
+  {
+      "english": "held",
+      "turkish": "tutmak (geçmiş)"
+  },
+  {
+      "english": "help",
+      "turkish": "yardım"
+  },
+  {
+      "english": "her",
+      "turkish": "O (kadın)"
+  },
+  {
+      "english": "here",
+      "turkish": "burada"
+  },
+  {
+      "english": "high",
+      "turkish": "yüksek"
+  },
+  {
+      "english": "hill",
+      "turkish": "tepe"
+  },
+  {
+      "english": "him",
+      "turkish": "O (erkek)"
+  },
+  {
+      "english": "himself",
+      "turkish": "kendisi (erkek)"
+  },
+  {
+      "english": "his",
+      "turkish": "onun (erkek)"
+  },
+  {
+      "english": "history",
+      "turkish": "tarih"
+  },
+  {
+      "english": "hit",
+      "turkish": "vurmak"
+  },
+  {
+      "english": "hold",
+      "turkish": "tutmak"
+  },
+  {
+      "english": "hole",
+      "turkish": "delik"
+  },
+  {
+      "english": "home",
+      "turkish": "ev"
+  },
+  {
+      "english": "hope",
+      "turkish": "umut"
+  },
+  {
+      "english": "horse",
+      "turkish": "at"
+  },
+  {
+      "english": "hot",
+      "turkish": "sıcak"
+  },
+  {
+      "english": "hour",
+      "turkish": "saat"
+  },
+  {
+      "english": "house",
+      "turkish": "ev"
+  },
+  {
+      "english": "how",
+      "turkish": "nasıl"
+  },
+  {
+      "english": "however",
+      "turkish": "ancak"
+  },
+  {
+      "english": "huge",
+      "turkish": "dev"
+  },
+  {
+      "english": "human",
+      "turkish": "insan"
+  },
+  {
+      "english": "hundred",
+      "turkish": "yüz (sayı)"
+  },
+  {
+      "english": "hunting",
+      "turkish": "avlanma"
+  },
+  {
+      "english": "I",
+      "turkish": "ben"
+  },
+  {
+      "english": "ice",
+      "turkish": "buz"
+  },
+  {
+      "english": "idea",
+      "turkish": "fikir"
+  },
+  {
+      "english": "if",
+      "turkish": "eğer"
+  },
+  {
+      "english": "I &#8217;ll",
+      "turkish": "ben (gelecekte)"
+  },
+  {
+      "english": "important",
+      "turkish": "önemli"
+  },
+  {
+      "english": "in",
+      "turkish": "içeri"
+  },
+  {
+      "english": "inches",
+      "turkish": "inç (uzunluk birimi)"
+  },
+  {
+      "english": "include",
+      "turkish": "içermek"
+  },
+  {
+      "english": "increase",
+      "turkish": "yükselmek"
+  },
+  {
+      "english": "Indian",
+      "turkish": "Hindistanlı"
+  },
+  {
+      "english": "indicate",
+      "turkish": "göstermek"
+  },
+  {
+      "english": "insect",
+      "turkish": "böcek"
+  },
+  {
+      "english": "inside",
+      "turkish": "içinde"
+  },
+  {
+      "english": "instead",
+      "turkish": "yerine"
+  },
+  {
+      "english": "instruments",
+      "turkish": "enstruman"
+  },
+  {
+      "english": "interest",
+      "turkish": "ilgi"
+  },
+  {
+      "english": "interesting",
+      "turkish": "ilginç"
+  },
+  {
+      "english": "into",
+      "turkish": "içine"
+  },
+  {
+      "english": "iron",
+      "turkish": "demir"
+  },
+  {
+      "english": "is",
+      "turkish": "olmak"
+  },
+  {
+      "english": "island",
+      "turkish": "ada"
+  },
+  {
+      "english": "isn &#8217;t",
+      "turkish": "olmamak"
+  },
+  {
+      "english": "it",
+      "turkish": "o (hayvan veya cansız)"
+  },
+  {
+      "english": "its",
+      "turkish": "onun"
+  },
+  {
+      "english": "it &#8217;s",
+      "turkish": "olmak (hayvan veya cansız)"
+  },
+  {
+      "english": "itself",
+      "turkish": "kendisi (hayvan veya cansız)"
+  },
+  {
+      "english": "Japanese",
+      "turkish": "Japon"
+  },
+  {
+      "english": "job",
+      "turkish": "iş"
+  },
+  {
+      "english": "join",
+      "turkish": "katılmak"
+  },
+  {
+      "english": "jump",
+      "turkish": "zıplamak"
+  },
+  {
+      "english": "just",
+      "turkish": "sadece"
+  },
+  {
+      "english": "keep",
+      "turkish": "saklamak"
+  },
+  {
+      "english": "kept",
+      "turkish": "saklanmış"
+  },
+  {
+      "english": "key",
+      "turkish": "anahtar"
+  },
+  {
+      "english": "kill",
+      "turkish": "öldürmek"
+  },
+  {
+      "english": "kind",
+      "turkish": "kibar"
+  },
+  {
+      "english": "king",
+      "turkish": "kral"
+  },
+  {
+      "english": "knew",
+      "turkish": "bilmek (geçmiş)"
+  },
+  {
+      "english": "know",
+      "turkish": "bilmek"
+  },
+  {
+      "english": "known",
+      "turkish": "bilinmiş"
+  },
+  {
+      "english": "lake",
+      "turkish": "göl"
+  },
+  {
+      "english": "land",
+      "turkish": "arazi"
+  },
+  {
+      "english": "language",
+      "turkish": "dil"
+  },
+  {
+      "english": "large",
+      "turkish": "geniş"
+  },
+  {
+      "english": "last",
+      "turkish": "son"
+  },
+  {
+      "english": "later",
+      "turkish": "sonra"
+  },
+  {
+      "english": "laugh",
+      "turkish": "gülmek"
+  },
+  {
+      "english": "law",
+      "turkish": "kanun"
+  },
+  {
+      "english": "lay",
+      "turkish": "uzanmak"
+  },
+  {
+      "english": "lead",
+      "turkish": "kurşun"
+  },
+  {
+      "english": "learn",
+      "turkish": "öğrenmek"
+  },
+  {
+      "english": "least",
+      "turkish": "en azı"
+  },
+  {
+      "english": "leave",
+      "turkish": "terketmek"
+  },
+  {
+      "english": "led",
+      "turkish": "önderlik etmek (geçmiş)"
+  },
+  {
+      "english": "left",
+      "turkish": "sol"
+  },
+  {
+      "english": "leg",
+      "turkish": "ayak"
+  },
+  {
+      "english": "length",
+      "turkish": "uzunluk"
+  },
+  {
+      "english": "less",
+      "turkish": "az"
+  },
+  {
+      "english": "let",
+      "turkish": "izin vermek"
+  },
+  {
+      "english": "let &#8217;s",
+      "turkish": "haydi"
+  },
+  {
+      "english": "letter",
+      "turkish": "mektup"
+  },
+  {
+      "english": "level",
+      "turkish": "seviye"
+  },
+  {
+      "english": "lie",
+      "turkish": "yalan söylemek"
+  },
+  {
+      "english": "life",
+      "turkish": "hayat"
+  },
+  {
+      "english": "lift",
+      "turkish": "kaldırmak"
+  },
+  {
+      "english": "light",
+      "turkish": "ışık"
+  },
+  {
+      "english": "like",
+      "turkish": "beğenmek"
+  },
+  {
+      "english": "line",
+      "turkish": "çizgi"
+  },
+  {
+      "english": "listen",
+      "turkish": "dinlemek"
+  },
+  {
+      "english": "little",
+      "turkish": "küçük"
+  },
+  {
+      "english": "live",
+      "turkish": "yaşamak"
+  },
+  {
+      "english": "location",
+      "turkish": "lokasyon"
+  },
+  {
+      "english": "long",
+      "turkish": "uzun"
+  },
+  {
+      "english": "look",
+      "turkish": "bakmak"
+  },
+  {
+      "english": "lost",
+      "turkish": "kayıp"
+  },
+  {
+      "english": "lot",
+      "turkish": "çok"
+  },
+  {
+      "english": "loud",
+      "turkish": "gürültülü"
+  },
+  {
+      "english": "love",
+      "turkish": "sevmek"
+  },
+  {
+      "english": "low",
+      "turkish": "düşük"
+  },
+  {
+      "english": "made",
+      "turkish": "yapılmış"
+  },
+  {
+      "english": "main",
+      "turkish": "ana"
+  },
+  {
+      "english": "make",
+      "turkish": "yapmak"
+  },
+  {
+      "english": "man",
+      "turkish": "erkek"
+  },
+  {
+      "english": "many",
+      "turkish": "çok"
+  },
+  {
+      "english": "map",
+      "turkish": "harita"
+  },
+  {
+      "english": "march",
+      "turkish": "mart"
+  },
+  {
+      "english": "mark",
+      "turkish": "işaret"
+  },
+  {
+      "english": "matter",
+      "turkish": "madde"
+  },
+  {
+      "english": "may",
+      "turkish": "belki"
+  },
+  {
+      "english": "maybe",
+      "turkish": "belki"
+  },
+  {
+      "english": "me",
+      "turkish": "ben"
+  },
+  {
+      "english": "mean",
+      "turkish": "anlam"
+  },
+  {
+      "english": "measure",
+      "turkish": "ölçü"
+  },
+  {
+      "english": "meat",
+      "turkish": "et"
+  },
+  {
+      "english": "meet",
+      "turkish": "tanışmak"
+  },
+  {
+      "english": "member",
+      "turkish": "üye"
+  },
+  {
+      "english": "men",
+      "turkish": "erkekler"
+  },
+  {
+      "english": "middle",
+      "turkish": "orta"
+  },
+  {
+      "english": "might",
+      "turkish": "belki"
+  },
+  {
+      "english": "mile",
+      "turkish": "mil"
+  },
+  {
+      "english": "milk",
+      "turkish": "süt"
+  },
+  {
+      "english": "mind",
+      "turkish": "akıl"
+  },
+  {
+      "english": "minute",
+      "turkish": "dakika"
+  },
+  {
+      "english": "miss",
+      "turkish": "özlemek"
+  },
+  {
+      "english": "modern",
+      "turkish": "modern"
+  },
+  {
+      "english": "molecules",
+      "turkish": "molekül"
+  },
+  {
+      "english": "moment",
+      "turkish": "an"
+  },
+  {
+      "english": "money",
+      "turkish": "para"
+  },
+  {
+      "english": "month",
+      "turkish": "ay"
+  },
+  {
+      "english": "moon",
+      "turkish": "ay"
+  },
+  {
+      "english": "more",
+      "turkish": "daha"
+  },
+  {
+      "english": "morning",
+      "turkish": "gündüz"
+  },
+  {
+      "english": "most",
+      "turkish": "en fazla"
+  },
+  {
+      "english": "mother",
+      "turkish": "anne"
+  },
+  {
+      "english": "mountain",
+      "turkish": "dağ"
+  },
+  {
+      "english": "mouth",
+      "turkish": "ağız"
+  },
+  {
+      "english": "move",
+      "turkish": "hareket etmek"
+  },
+  {
+      "english": "movement",
+      "turkish": "hareket"
+  },
+  {
+      "english": "much",
+      "turkish": "fazla"
+  },
+  {
+      "english": "must",
+      "turkish": "zorunda olmak"
+  },
+  {
+      "english": "my",
+      "turkish": "benim"
+  },
+  {
+      "english": "name",
+      "turkish": "isim"
+  },
+  {
+      "english": "nation",
+      "turkish": "millet"
+  },
+  {
+      "english": "near",
+      "turkish": "yanında"
+  },
+  {
+      "english": "necessary",
+      "turkish": "gerekli"
+  },
+  {
+      "english": "need",
+      "turkish": "ihtiyaç duymak"
+  },
+  {
+      "english": "never",
+      "turkish": "asla"
+  },
+  {
+      "english": "new",
+      "turkish": "yeni"
+  },
+  {
+      "english": "next",
+      "turkish": "sonraki"
+  },
+  {
+      "english": "night",
+      "turkish": "gece"
+  },
+  {
+      "english": "no",
+      "turkish": "hayır"
+  },
+  {
+      "english": "nor",
+      "turkish": "veya (olumsuz)"
+  },
+  {
+      "english": "north",
+      "turkish": "kuzey"
+  },
+  {
+      "english": "northern",
+      "turkish": "kuzeyli"
+  },
+  {
+      "english": "nose",
+      "turkish": "burun"
+  },
+  {
+      "english": "not",
+      "turkish": "hayır"
+  },
+  {
+      "english": "note",
+      "turkish": "not"
+  },
+  {
+      "english": "nothing",
+      "turkish": "hiçbir şey"
+  },
+  {
+      "english": "notice",
+      "turkish": "farketmek"
+  },
+  {
+      "english": "noun",
+      "turkish": "isim"
+  },
+  {
+      "english": "now",
+      "turkish": "şimdi"
+  },
+  {
+      "english": "number",
+      "turkish": "sayı"
+  },
+  {
+      "english": "numeral",
+      "turkish": "sayısal"
+  },
+  {
+      "english": "observe",
+      "turkish": "gözlemlemek"
+  },
+  {
+      "english": "ocean",
+      "turkish": "okyanus"
+  },
+  {
+      "english": "of",
+      "turkish": "-den, -dan"
+  },
+  {
+      "english": "off",
+      "turkish": "kapalı"
+  },
+  {
+      "english": "office",
+      "turkish": "ofis"
+  },
+  {
+      "english": "often",
+      "turkish": "sıkça"
+  },
+  {
+      "english": "oh",
+      "turkish": "oh"
+  },
+  {
+      "english": "oil",
+      "turkish": "petrol, yağ"
+  },
+  {
+      "english": "old",
+      "turkish": "yaşlı"
+  },
+  {
+      "english": "on",
+      "turkish": "açık"
+  },
+  {
+      "english": "once",
+      "turkish": "bir kere"
+  },
+  {
+      "english": "one",
+      "turkish": "bir"
+  },
+  {
+      "english": "only",
+      "turkish": "sadece"
+  },
+  {
+      "english": "open",
+      "turkish": "açık"
+  },
+  {
+      "english": "opposite",
+      "turkish": "zıt"
+  },
+  {
+      "english": "or",
+      "turkish": "veya"
+  },
+  {
+      "english": "order",
+      "turkish": "düzen"
+  },
+  {
+      "english": "other",
+      "turkish": "diğer"
+  },
+  {
+      "english": "our",
+      "turkish": "bizim"
+  },
+  {
+      "english": "out",
+      "turkish": "dışarı"
+  },
+  {
+      "english": "outside",
+      "turkish": "dışarısı"
+  },
+  {
+      "english": "own",
+      "turkish": "sahip olmak"
+  },
+  {
+      "english": "page",
+      "turkish": "sayfa"
+  },
+  {
+      "english": "paint",
+      "turkish": "boyamak"
+  },
+  {
+      "english": "pair",
+      "turkish": "çift"
+  },
+  {
+      "english": "paper",
+      "turkish": "kağıt"
+  },
+  {
+      "english": "part",
+      "turkish": "bölüm"
+  },
+  {
+      "english": "particular",
+      "turkish": "belli"
+  },
+  {
+      "english": "passed",
+      "turkish": "geçmiş"
+  },
+  {
+      "english": "past",
+      "turkish": "geçmiş"
+  },
+  {
+      "english": "pattern",
+      "turkish": "patern"
+  },
+  {
+      "english": "pay",
+      "turkish": "ödemek"
+  },
+  {
+      "english": "people",
+      "turkish": "insanlar"
+  },
+  {
+      "english": "per",
+      "turkish": "başına"
+  },
+  {
+      "english": "perhaps",
+      "turkish": "belki"
+  },
+  {
+      "english": "period",
+      "turkish": "nokta"
+  },
+  {
+      "english": "person",
+      "turkish": "insan"
+  },
+  {
+      "english": "phrase",
+      "turkish": "cümle parçası"
+  },
+  {
+      "english": "picture",
+      "turkish": "resim"
+  },
+  {
+      "english": "piece",
+      "turkish": "parça"
+  },
+  {
+      "english": "place",
+      "turkish": "yer"
+  },
+  {
+      "english": "plain",
+      "turkish": "düz"
+  },
+  {
+      "english": "plane",
+      "turkish": "uçak"
+  },
+  {
+      "english": "plant",
+      "turkish": "bitki"
+  },
+  {
+      "english": "plants",
+      "turkish": "bitkiler"
+  },
+  {
+      "english": "play",
+      "turkish": "oynamak"
+  },
+  {
+      "english": "please",
+      "turkish": "lütfen"
+  },
+  {
+      "english": "plural",
+      "turkish": "çoğul"
+  },
+  {
+      "english": "poem",
+      "turkish": "şiir"
+  },
+  {
+      "english": "point",
+      "turkish": "puan"
+  },
+  {
+      "english": "pole",
+      "turkish": "kutup"
+  },
+  {
+      "english": "poor",
+      "turkish": "fakir"
+  },
+  {
+      "english": "possible",
+      "turkish": "mümkün"
+  },
+  {
+      "english": "pound",
+      "turkish": "ağırlık birimi"
+  },
+  {
+      "english": "power",
+      "turkish": "güç"
+  },
+  {
+      "english": "practice",
+      "turkish": "pratik"
+  },
+  {
+      "english": "prepare",
+      "turkish": "hazırlanmak"
+  },
+  {
+      "english": "president",
+      "turkish": "başkan"
+  },
+  {
+      "english": "pretty",
+      "turkish": "güzel"
+  },
+  {
+      "english": "printed",
+      "turkish": "yazılmış"
+  },
+  {
+      "english": "probably",
+      "turkish": "belki"
+  },
+  {
+      "english": "process",
+      "turkish": "işlem"
+  },
+  {
+      "english": "produce",
+      "turkish": "üretmek"
+  },
+  {
+      "english": "product",
+      "turkish": "ürün"
+  },
+  {
+      "english": "property",
+      "turkish": "mülk"
+  },
+  {
+      "english": "provide",
+      "turkish": "sağlamak"
+  },
+  {
+      "english": "pull",
+      "turkish": "çekmek"
+  },
+  {
+      "english": "push",
+      "turkish": "itmek"
+  },
+  {
+      "english": "put",
+      "turkish": "koymak"
+  },
+  {
+      "english": "question",
+      "turkish": "soru"
+  },
+  {
+      "english": "quickly",
+      "turkish": "hızlıca"
+  },
+  {
+      "english": "quiet",
+      "turkish": "sessiz"
+  },
+  {
+      "english": "quite",
+      "turkish": "oldukça"
+  },
+  {
+      "english": "race",
+      "turkish": "yarış"
+  },
+  {
+      "english": "radio",
+      "turkish": "radyo"
+  },
+  {
+      "english": "rain",
+      "turkish": "yağmur"
+  },
+  {
+      "english": "raise",
+      "turkish": "yükseltmek"
+  },
+  {
+      "english": "ran",
+      "turkish": "koşmak (geçmiş)"
+  },
+  {
+      "english": "rather",
+      "turkish": "-dense"
+  },
+  {
+      "english": "reach",
+      "turkish": "ulaşmak"
+  },
+  {
+      "english": "read",
+      "turkish": "okumak"
+  },
+  {
+      "english": "ready",
+      "turkish": "hazır"
+  },
+  {
+      "english": "really",
+      "turkish": "gerçekten"
+  },
+  {
+      "english": "reason",
+      "turkish": "sebep"
+  },
+  {
+      "english": "receive",
+      "turkish": "almak"
+  },
+  {
+      "english": "record",
+      "turkish": "kayıt"
+  },
+  {
+      "english": "red",
+      "turkish": "kırmızı"
+  },
+  {
+      "english": "region",
+      "turkish": "bölge"
+  },
+  {
+      "english": "remain",
+      "turkish": "kalan"
+  },
+  {
+      "english": "remember",
+      "turkish": "hatırlamak"
+  },
+  {
+      "english": "repeat",
+      "turkish": "tekrar etmek"
+  },
+  {
+      "english": "represent",
+      "turkish": "temsil etmek"
+  },
+  {
+      "english": "resent",
+      "turkish": "gücenmek"
+  },
+  {
+      "english": "rest",
+      "turkish": "dinlenmek"
+  },
+  {
+      "english": "result",
+      "turkish": "sonuç"
+  },
+  {
+      "english": "return",
+      "turkish": "dönmek"
+  },
+  {
+      "english": "rhythm",
+      "turkish": "ritim"
+  },
+  {
+      "english": "rich",
+      "turkish": "zengin"
+  },
+  {
+      "english": "ride",
+      "turkish": "binmek"
+  },
+  {
+      "english": "right",
+      "turkish": "sağ"
+  },
+  {
+      "english": "ring",
+      "turkish": "zil çalmak"
+  },
+  {
+      "english": "rise",
+      "turkish": "yükselmek"
+  },
+  {
+      "english": "river",
+      "turkish": "nehir"
+  },
+  {
+      "english": "road",
+      "turkish": "yol"
+  },
+  {
+      "english": "rock",
+      "turkish": "kaya"
+  },
+  {
+      "english": "rolled",
+      "turkish": "yuvarlanmış"
+  },
+  {
+      "english": "room",
+      "turkish": "oda"
+  },
+  {
+      "english": "root",
+      "turkish": "kök"
+  },
+  {
+      "english": "rope",
+      "turkish": "halat"
+  },
+  {
+      "english": "rose",
+      "turkish": "gül"
+  },
+  {
+      "english": "round",
+      "turkish": "yuvarlak"
+  },
+  {
+      "english": "row",
+      "turkish": "satır"
+  },
+  {
+      "english": "rule",
+      "turkish": "kural"
+  },
+  {
+      "english": "run",
+      "turkish": "koşmak"
+  },
+  {
+      "english": "safe",
+      "turkish": "güvenli"
+  },
+  {
+      "english": "said",
+      "turkish": "dedi"
+  },
+  {
+      "english": "sail",
+      "turkish": "yelken açmak"
+  },
+  {
+      "english": "same",
+      "turkish": "aynı"
+  },
+  {
+      "english": "sand",
+      "turkish": "kum"
+  },
+  {
+      "english": "sat",
+      "turkish": "oturdu"
+  },
+  {
+      "english": "save",
+      "turkish": "kurtarmak"
+  },
+  {
+      "english": "saw",
+      "turkish": "testere"
+  },
+  {
+      "english": "say",
+      "turkish": "söylemek"
+  },
+  {
+      "english": "scale",
+      "turkish": "ölçek"
+  },
+  {
+      "english": "school",
+      "turkish": "okul"
+  },
+  {
+      "english": "science",
+      "turkish": "bilim"
+  },
+  {
+      "english": "scientist",
+      "turkish": "bilim adamı"
+  },
+  {
+      "english": "sea",
+      "turkish": "deniz"
+  },
+  {
+      "english": "seat",
+      "turkish": "koltuk"
+  },
+  {
+      "english": "second",
+      "turkish": "saniye"
+  },
+  {
+      "english": "section",
+      "turkish": "bölüm"
+  },
+  {
+      "english": "see",
+      "turkish": "görmek"
+  },
+  {
+      "english": "seed",
+      "turkish": "tohumlar"
+  },
+  {
+      "english": "seem",
+      "turkish": "görünmek"
+  },
+  {
+      "english": "seen",
+      "turkish": "görünmek"
+  },
+  {
+      "english": "sell",
+      "turkish": "satmak"
+  },
+  {
+      "english": "send",
+      "turkish": "göndermek"
+  },
+  {
+      "english": "sense",
+      "turkish": "his"
+  },
+  {
+      "english": "sent",
+      "turkish": "gönderilmiş"
+  },
+  {
+      "english": "sentence",
+      "turkish": "cümle"
+  },
+  {
+      "english": "separate",
+      "turkish": "ayrı"
+  },
+  {
+      "english": "serve",
+      "turkish": "hizmet etmek"
+  },
+  {
+      "english": "set",
+      "turkish": "ayarlamak"
+  },
+  {
+      "english": "settled",
+      "turkish": "ayarlanmış"
+  },
+  {
+      "english": "seven",
+      "turkish": "yedi"
+  },
+  {
+      "english": "several",
+      "turkish": "birkaç"
+  },
+  {
+      "english": "shall",
+      "turkish": "olsun"
+  },
+  {
+      "english": "shape",
+      "turkish": "şekil"
+  },
+  {
+      "english": "sharp",
+      "turkish": "keskin"
+  },
+  {
+      "english": "she",
+      "turkish": "O (kadın)"
+  },
+  {
+      "english": "ship",
+      "turkish": "gemi"
+  },
+  {
+      "english": "shoes",
+      "turkish": "ayakkabı"
+  },
+  {
+      "english": "shop",
+      "turkish": "dükkan"
+  },
+  {
+      "english": "short",
+      "turkish": "kısa"
+  },
+  {
+      "english": "should",
+      "turkish": "zorunda olmak"
+  },
+  {
+      "english": "shoulder",
+      "turkish": "omuz"
+  },
+  {
+      "english": "shout",
+      "turkish": "bağırmak"
+  },
+  {
+      "english": "show",
+      "turkish": "göstermek"
+  },
+  {
+      "english": "shown",
+      "turkish": "gösterilmiş"
+  },
+  {
+      "english": "side",
+      "turkish": "yan"
+  },
+  {
+      "english": "sight",
+      "turkish": "görüş"
+  },
+  {
+      "english": "sign",
+      "turkish": "işaret"
+  },
+  {
+      "english": "signal",
+      "turkish": "sinyal"
+  },
+  {
+      "english": "silent",
+      "turkish": "sessiz"
+  },
+  {
+      "english": "similar",
+      "turkish": "benzer"
+  },
+  {
+      "english": "simple",
+      "turkish": "basit"
+  },
+  {
+      "english": "since",
+      "turkish": "-den beri"
+  },
+  {
+      "english": "sing",
+      "turkish": "şarkı söylemek"
+  },
+  {
+      "english": "sir",
+      "turkish": "efendi"
+  },
+  {
+      "english": "sister",
+      "turkish": "kız kardeş"
+  },
+  {
+      "english": "sit",
+      "turkish": "oturmak"
+  },
+  {
+      "english": "six",
+      "turkish": "altı"
+  },
+  {
+      "english": "size",
+      "turkish": "boyut"
+  },
+  {
+      "english": "skin",
+      "turkish": "deri"
+  },
+  {
+      "english": "sky",
+      "turkish": "hava"
+  },
+  {
+      "english": "sleep",
+      "turkish": "uyku"
+  },
+  {
+      "english": "slowly",
+      "turkish": "yavaşça"
+  },
+  {
+      "english": "small",
+      "turkish": "küçük"
+  },
+  {
+      "english": "smell",
+      "turkish": "koklamak"
+  },
+  {
+      "english": "smile",
+      "turkish": "gülümsemek"
+  },
+  {
+      "english": "snow",
+      "turkish": "kar"
+  },
+  {
+      "english": "so",
+      "turkish": "şöyle"
+  },
+  {
+      "english": "soft",
+      "turkish": "yumuşak"
+  },
+  {
+      "english": "soil",
+      "turkish": "toprak"
+  },
+  {
+      "english": "soldier",
+      "turkish": "asker"
+  },
+  {
+      "english": "solution",
+      "turkish": "çözüm"
+  },
+  {
+      "english": "some",
+      "turkish": "bazı"
+  },
+  {
+      "english": "someone",
+      "turkish": "birisi"
+  },
+  {
+      "english": "something",
+      "turkish": "bir şey"
+  },
+  {
+      "english": "sometimes",
+      "turkish": "bazen"
+  },
+  {
+      "english": "son",
+      "turkish": "erkek çocuk"
+  },
+  {
+      "english": "song",
+      "turkish": "şarkı"
+  },
+  {
+      "english": "soon",
+      "turkish": "yakında"
+  },
+  {
+      "english": "sound",
+      "turkish": "ses"
+  },
+  {
+      "english": "south",
+      "turkish": "güney"
+  },
+  {
+      "english": "southern",
+      "turkish": "güneyli"
+  },
+  {
+      "english": "space",
+      "turkish": "uzay, boşluk"
+  },
+  {
+      "english": "speak",
+      "turkish": "konuşmak"
+  },
+  {
+      "english": "speed",
+      "turkish": "hız"
+  },
+  {
+      "english": "spell",
+      "turkish": "hecelemek"
+  },
+  {
+      "english": "spot",
+      "turkish": "nokta"
+  },
+  {
+      "english": "spread",
+      "turkish": "yayılmak"
+  },
+  {
+      "english": "spring",
+      "turkish": "ilkbahar"
+  },
+  {
+      "english": "square",
+      "turkish": "kare"
+  },
+  {
+      "english": "stand",
+      "turkish": "ayakta durmak"
+  },
+  {
+      "english": "start",
+      "turkish": "başlamak"
+  },
+  {
+      "english": "state",
+      "turkish": "durum"
+  },
+  {
+      "english": "statement",
+      "turkish": "ifade"
+  },
+  {
+      "english": "stay",
+      "turkish": "kalmak"
+  },
+  {
+      "english": "steel",
+      "turkish": "çelik"
+  },
+  {
+      "english": "stick",
+      "turkish": "yapışmak"
+  },
+  {
+      "english": "still",
+      "turkish": "halen"
+  },
+  {
+      "english": "stone",
+      "turkish": "taş"
+  },
+  {
+      "english": "stood",
+      "turkish": "ayakta durmuş"
+  },
+  {
+      "english": "stop",
+      "turkish": "durmak"
+  },
+  {
+      "english": "store",
+      "turkish": "dükkan"
+  },
+  {
+      "english": "story",
+      "turkish": "hikaye"
+  },
+  {
+      "english": "straight",
+      "turkish": "düz"
+  },
+  {
+      "english": "strange",
+      "turkish": "garip"
+  },
+  {
+      "english": "stream",
+      "turkish": "akıntı"
+  },
+  {
+      "english": "street",
+      "turkish": "sokak"
+  },
+  {
+      "english": "stretch",
+      "turkish": "genişletmek"
+  },
+  {
+      "english": "string",
+      "turkish": "dizi"
+  },
+  {
+      "english": "strong",
+      "turkish": "güçlü"
+  },
+  {
+      "english": "student",
+      "turkish": "öğrenci"
+  },
+  {
+      "english": "study",
+      "turkish": "çalışmak"
+  },
+  {
+      "english": "subject",
+      "turkish": "konu"
+  },
+  {
+      "english": "substance",
+      "turkish": "madde"
+  },
+  {
+      "english": "such",
+      "turkish": "örneğin"
+  },
+  {
+      "english": "suddenly",
+      "turkish": "aniden"
+  },
+  {
+      "english": "suffix",
+      "turkish": "son ek"
+  },
+  {
+      "english": "sugar",
+      "turkish": "şeker"
+  },
+  {
+      "english": "suggested",
+      "turkish": "tavsiye edilmiş"
+  },
+  {
+      "english": "sum",
+      "turkish": "özet"
+  },
+  {
+      "english": "summer",
+      "turkish": "yaz"
+  },
+  {
+      "english": "sun",
+      "turkish": "güneş"
+  },
+  {
+      "english": "supply",
+      "turkish": "malzeme"
+  },
+  {
+      "english": "suppose",
+      "turkish": "tahmin yürütmek"
+  },
+  {
+      "english": "sure",
+      "turkish": "emin"
+  },
+  {
+      "english": "surface",
+      "turkish": "yüzey"
+  },
+  {
+      "english": "swim",
+      "turkish": "yüzmek"
+  },
+  {
+      "english": "syllables",
+      "turkish": "ders programı"
+  },
+  {
+      "english": "symbols",
+      "turkish": "sembol"
+  },
+  {
+      "english": "table",
+      "turkish": "masa"
+  },
+  {
+      "english": "tail",
+      "turkish": "kuyruk"
+  },
+  {
+      "english": "take",
+      "turkish": "almak"
+  },
+  {
+      "english": "talk",
+      "turkish": "konuşmak"
+  },
+  {
+      "english": "tall",
+      "turkish": "uzun"
+  },
+  {
+      "english": "teacher",
+      "turkish": "öğretmen"
+  },
+  {
+      "english": "team",
+      "turkish": "takım"
+  },
+  {
+      "english": "tell",
+      "turkish": "söylemek"
+  },
+  {
+      "english": "temperature",
+      "turkish": "sıcaklık"
+  },
+  {
+      "english": "ten",
+      "turkish": "on"
+  },
+  {
+      "english": "term",
+      "turkish": "dönem"
+  },
+  {
+      "english": "than",
+      "turkish": "-den"
+  },
+  {
+      "english": "that",
+      "turkish": "o (eşya)"
+  },
+  {
+      "english": "the",
+      "turkish": "o"
+  },
+  {
+      "english": "their",
+      "turkish": "onların"
+  },
+  {
+      "english": "them",
+      "turkish": "onlar"
+  },
+  {
+      "english": "themselves",
+      "turkish": "onların kendisi"
+  },
+  {
+      "english": "then",
+      "turkish": "sonra"
+  },
+  {
+      "english": "there",
+      "turkish": "orada"
+  },
+  {
+      "english": "these",
+      "turkish": "bunlar"
+  },
+  {
+      "english": "they",
+      "turkish": "onlar (insan)"
+  },
+  {
+      "english": "thick",
+      "turkish": "kalın"
+  },
+  {
+      "english": "thin",
+      "turkish": "ince"
+  },
+  {
+      "english": "thing",
+      "turkish": "şey"
+  },
+  {
+      "english": "think",
+      "turkish": "düşünmek"
+  },
+  {
+      "english": "third",
+      "turkish": "üçüncü"
+  },
+  {
+      "english": "this",
+      "turkish": "o"
+  },
+  {
+      "english": "those",
+      "turkish": "onlar"
+  },
+  {
+      "english": "though",
+      "turkish": "-e rağmen"
+  },
+  {
+      "english": "thought",
+      "turkish": "düşünce"
+  },
+  {
+      "english": "thousands",
+      "turkish": "binlerce"
+  },
+  {
+      "english": "three",
+      "turkish": "üç"
+  },
+  {
+      "english": "through",
+      "turkish": "arasından"
+  },
+  {
+      "english": "thus",
+      "turkish": "nitekim"
+  },
+  {
+      "english": "tied",
+      "turkish": "bağlı"
+  },
+  {
+      "english": "time",
+      "turkish": "zaman"
+  },
+  {
+      "english": "tiny",
+      "turkish": "küçücük"
+  },
+  {
+      "english": "to",
+      "turkish": "ona"
+  },
+  {
+      "english": "today",
+      "turkish": "bugün"
+  },
+  {
+      "english": "together",
+      "turkish": "birlikte"
+  },
+  {
+      "english": "told",
+      "turkish": "söyledi"
+  },
+  {
+      "english": "tone",
+      "turkish": "ton"
+  },
+  {
+      "english": "too",
+      "turkish": "çok"
+  },
+  {
+      "english": "took",
+      "turkish": "almak (geçmiş zaman)"
+  },
+  {
+      "english": "tool",
+      "turkish": "alet"
+  },
+  {
+      "english": "top",
+      "turkish": "üst"
+  },
+  {
+      "english": "total",
+      "turkish": "toplam"
+  },
+  {
+      "english": "touch",
+      "turkish": "dokunmak"
+  },
+  {
+      "english": "toward",
+      "turkish": "-e doğru"
+  },
+  {
+      "english": "town",
+      "turkish": "yerleşke"
+  },
+  {
+      "english": "track",
+      "turkish": "takip etmek"
+  },
+  {
+      "english": "trade",
+      "turkish": "ticaret"
+  },
+  {
+      "english": "travel",
+      "turkish": "yolculuk"
+  },
+  {
+      "english": "tree",
+      "turkish": "ağaç"
+  },
+  {
+      "english": "triangle",
+      "turkish": "üçgen"
+  },
+  {
+      "english": "trip",
+      "turkish": "yolculuk"
+  },
+  {
+      "english": "trouble",
+      "turkish": "sorun"
+  },
+  {
+      "english": "truck",
+      "turkish": "kamyon"
+  },
+  {
+      "english": "true",
+      "turkish": "doğru"
+  },
+  {
+      "english": "try",
+      "turkish": "denemek"
+  },
+  {
+      "english": "tube",
+      "turkish": "tüp"
+  },
+  {
+      "english": "turn",
+      "turkish": "dönüş"
+  },
+  {
+      "english": "two",
+      "turkish": "iki"
+  },
+  {
+      "english": "type",
+      "turkish": "yazmak"
+  },
+  {
+      "english": "uncle",
+      "turkish": "amca"
+  },
+  {
+      "english": "under",
+      "turkish": "altında"
+  },
+  {
+      "english": "underline",
+      "turkish": "altı çizili"
+  },
+  {
+      "english": "understand",
+      "turkish": "anlamak"
+  },
+  {
+      "english": "until",
+      "turkish": "-e kadar"
+  },
+  {
+      "english": "up",
+      "turkish": "yukarı"
+  },
+  {
+      "english": "upon",
+      "turkish": "üstüne"
+  },
+  {
+      "english": "us",
+      "turkish": "biz"
+  },
+  {
+      "english": "use",
+      "turkish": "kullanmak"
+  },
+  {
+      "english": "usually",
+      "turkish": "genellikle"
+  },
+  {
+      "english": "valley",
+      "turkish": "vadi"
+  },
+  {
+      "english": "value",
+      "turkish": "değer"
+  },
+  {
+      "english": "various",
+      "turkish": "çeşitli"
+  },
+  {
+      "english": "verb",
+      "turkish": "fiil"
+  },
+  {
+      "english": "very",
+      "turkish": "çok"
+  },
+  {
+      "english": "view",
+      "turkish": "görüş"
+  },
+  {
+      "english": "village",
+      "turkish": "köy"
+  },
+  {
+      "english": "visit",
+      "turkish": "ziyaret"
+  },
+  {
+      "english": "voice",
+      "turkish": "ses"
+  },
+  {
+      "english": "vowel",
+      "turkish": "sesli harf"
+  },
+  {
+      "english": "wait",
+      "turkish": "beklemek"
+  },
+  {
+      "english": "walk",
+      "turkish": "yürümek"
+  },
+  {
+      "english": "wall",
+      "turkish": "duvar"
+  },
+  {
+      "english": "want",
+      "turkish": "istemek"
+  },
+  {
+      "english": "war",
+      "turkish": "savaş"
+  },
+  {
+      "english": "warm",
+      "turkish": "sıcak"
+  },
+  {
+      "english": "was",
+      "turkish": "olmak (geçmiş)"
+  },
+  {
+      "english": "wash",
+      "turkish": "yıkamak"
+  },
+  {
+      "english": "Washington",
+      "turkish": "Washington"
+  },
+  {
+      "english": "wasn &#8217;t",
+      "turkish": "olmamak (geçmiş)"
+  },
+  {
+      "english": "watch",
+      "turkish": "izlemek"
+  },
+  {
+      "english": "water",
+      "turkish": "su"
+  },
+  {
+      "english": "waves",
+      "turkish": "dalgalar"
+  },
+  {
+      "english": "way",
+      "turkish": "yol"
+  },
+  {
+      "english": "we",
+      "turkish": "biz"
+  },
+  {
+      "english": "wear",
+      "turkish": "giymek"
+  },
+  {
+      "english": "weather",
+      "turkish": "hava"
+  },
+  {
+      "english": "week",
+      "turkish": "hafta"
+  },
+  {
+      "english": "weight",
+      "turkish": "kilo"
+  },
+  {
+      "english": "well",
+      "turkish": "iyi"
+  },
+  {
+      "english": "we &#8217;ll",
+      "turkish": "biz (gelecek zaman)"
+  },
+  {
+      "english": "went",
+      "turkish": "gitmek (geçmiş)"
+  },
+  {
+      "english": "were",
+      "turkish": "olmak (çoğul, geçmiş)"
+  },
+  {
+      "english": "west",
+      "turkish": "batı"
+  },
+  {
+      "english": "western",
+      "turkish": "batılı"
+  },
+  {
+      "english": "what",
+      "turkish": "ne?"
+  },
+  {
+      "english": "wheel",
+      "turkish": "tekerlek"
+  },
+  {
+      "english": "when",
+      "turkish": "ne zaman?"
+  },
+  {
+      "english": "where",
+      "turkish": "nerede?"
+  },
+  {
+      "english": "whether",
+      "turkish": "eğer"
+  },
+  {
+      "english": "which",
+      "turkish": "hangisi?"
+  },
+  {
+      "english": "while",
+      "turkish": "süresince"
+  },
+  {
+      "english": "white",
+      "turkish": "beyaz"
+  },
+  {
+      "english": "who",
+      "turkish": "kim?"
+  },
+  {
+      "english": "whole",
+      "turkish": "bütün"
+  },
+  {
+      "english": "whose",
+      "turkish": "kimin?"
+  },
+  {
+      "english": "why",
+      "turkish": "neden?"
+  },
+  {
+      "english": "wide",
+      "turkish": "geniş"
+  },
+  {
+      "english": "wife",
+      "turkish": "eş (kadın)"
+  },
+  {
+      "english": "wild",
+      "turkish": "vahşi"
+  },
+  {
+      "english": "will",
+      "turkish": "istek"
+  },
+  {
+      "english": "win",
+      "turkish": "kazanmak"
+  },
+  {
+      "english": "wind",
+      "turkish": "rüzgar"
+  },
+  {
+      "english": "window",
+      "turkish": "pencere"
+  },
+  {
+      "english": "wing",
+      "turkish": "kanat"
+  },
+  {
+      "english": "winter",
+      "turkish": "kış"
+  },
+  {
+      "english": "wire",
+      "turkish": "kablo"
+  },
+  {
+      "english": "wish",
+      "turkish": "dilemek"
+  },
+  {
+      "english": "with",
+      "turkish": "birlikte"
+  },
+  {
+      "english": "within",
+      "turkish": "içinde"
+  },
+  {
+      "english": "without",
+      "turkish": "olmadan"
+  },
+  {
+      "english": "woman",
+      "turkish": "kadın"
+  },
+  {
+      "english": "women",
+      "turkish": "kadınlar"
+  },
+  {
+      "english": "wonder",
+      "turkish": "merak etmek"
+  },
+  {
+      "english": "won &#8217;t",
+      "turkish": "olmamak (gelecek)"
+  },
+  {
+      "english": "wood",
+      "turkish": "ağaç"
+  },
+  {
+      "english": "word",
+      "turkish": "kelime"
+  },
+  {
+      "english": "work",
+      "turkish": "iş"
+  },
+  {
+      "english": "worker",
+      "turkish": "işçi"
+  },
+  {
+      "english": "world",
+      "turkish": "dünya"
+  },
+  {
+      "english": "would",
+      "turkish": "istemek"
+  },
+  {
+      "english": "wouldn &#8217;t",
+      "turkish": "istememek"
+  },
+  {
+      "english": "write",
+      "turkish": "yazmak"
+  },
+  {
+      "english": "written",
+      "turkish": "yazılı"
+  },
+  {
+      "english": "wrong",
+      "turkish": "yanlış"
+  },
+  {
+      "english": "wrote",
+      "turkish": "yazmak (geçmiş)"
+  },
+  {
+      "english": "yard",
+      "turkish": "bahçe"
+  },
+  {
+      "english": "year",
+      "turkish": "yıl"
+  },
+  {
+      "english": "yellow",
+      "turkish": "sarı"
+  },
+  {
+      "english": "yes",
+      "turkish": "evet"
+  },
+  {
+      "english": "yet",
+      "turkish": "henüz"
+  },
+  {
+      "english": "you",
+      "turkish": "sen"
+  },
+  {
+      "english": "young",
+      "turkish": "genç"
+  },
+  {
+      "english": "your",
+      "turkish": "senin"
+  },
+  {
+      "english": "you &#8217;re",
+      "turkish": "sen (olmak)"
+  },
+  {
+      "english": "yourself",
+      "turkish": "kendin"
+  }
+]
