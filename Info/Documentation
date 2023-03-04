@@ -8,6 +8,8 @@ android projesinde manifest -> AndroidManifest.xml dosyasına manifest tagı iç
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 tagları eklenmesi lazım yazma ve okuma işlemleri yapmak için izin
 
+C:\Users\sarik\Desktop\ReactProjects\reactWithMobilApp\reactWithMobilApp\android\app\build.gradle
+Version için lazım olabilir bu adres
 
 Uygulama çalışma prensibi 
   -> Bir kelime soru olarak sorulacak(soru sınırı olmayacak)(bu kelime isteğe göre türkçe veya ingilizce olacak)

@@ -15,3 +15,53 @@
   justify-content: center;
   align-items: center;
 }
+
+/* Modal */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  overflow-y: auto;
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  margin: 20px auto;
+  background-color: #fff;
+  max-width: 90%;
+  max-height: 80%;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+
+.modal-content h2 {
+  font-size: 24px;
+  margin: 20px;
+  text-align: center;
+}
+
+.modal-content p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 20px 20px;
+  text-align: justify;
+}
+
+/* Close Button */
+.modal-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  background-color: #f00;
+  color: #fff;
+  border: none;
+  border-radius: 0 10px 0 0;
+  cursor: pointer;
+}

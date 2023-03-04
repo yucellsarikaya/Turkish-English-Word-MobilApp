@@ -17,7 +17,6 @@ export class StoreAllWords {
 
   public static CevapButonArray: string[] = ["", "", ""];
 
-
   public static KelimeBul = () => {
     this.Kelime = Words[Math.floor(Math.random() * Words.length)];
     this.KelimeEn = this.Kelime.english;
@@ -62,6 +61,32 @@ export class StoreAllWords {
       this.CevapButonArray[num2] = this.CevapKelime1Tr || "";
       this.CevapButonArray[num3] = this.CevapKelime2Tr || "";
     }
+  };
+
+  public static DogruCevapMi = (cevap: string) => {
+    if (this.CeviriTip === "Tr-En") {
+      if (cevap === this.KelimeEn) {
+        this.closeModalSuccess(true);
+      } else {
+        this.closeModalError(true);
+      }
+    } else {
+      if (cevap === this.KelimeTr) {
+        this.closeModalSuccess(true);
+      } else {
+        this.closeModalError(true);
+      }
+    }
+  };
+
+  public static isSuccess: boolean = false;
+  public static closeModalSuccess = (show: boolean) => {
+    this.isSuccess = show;
+  };
+
+  public static isError: boolean = false;
+  public static closeModalError = (show: boolean) => {
+    this.isError = show;
   };
 }
 

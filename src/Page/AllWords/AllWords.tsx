@@ -4,16 +4,26 @@ import React, { useEffect, useState } from "react";
 import AllWordsHeader from "./AllWordsHeader";
 import FormLabel from "@mui/material/FormLabel/FormLabel";
 import { Button, ButtonGroup } from "@mui/material";
+import Modal from "../../Components/Modal";
 
 export default function AllWords({}: {}) {
   const [CeviriTipi, setCeviriTipi] = React.useState<boolean>(true);
   let [index, setIndex] = useState([1]);
+  // const [isSuccess, setIsSuccess] = useState(false);
+  // const [isError, setIsError] = useState(false);
 
   useEffect(() => {}, [setIndex]);
 
   const Reflesh = () => {
     setIndex([...index, 1]);
   };
+
+  // const closeModalSuccess = () => {
+  //   setIsSuccess(!isSuccess);
+  // };
+  // const closeModalError = () => {
+  //   setIsError(!isError);
+  // };
   return (
     <div>
       <div style={{ display: "flex", marginLeft: "20%" }}>
@@ -32,7 +42,7 @@ export default function AllWords({}: {}) {
             Store.KelimeBul();
           }}
         >
-          Kelime Değiş
+          Kelime Üret
         </Button>
       </div>
 
@@ -54,11 +64,61 @@ export default function AllWords({}: {}) {
 
       <div className="Center-ReplyWord-root">
         <ButtonGroup variant="text" aria-label="text button group">
-          <Button>{Store.CevapButonArray[0]}</Button>
-          <Button>{Store.CevapButonArray[1]}</Button>
-          <Button>{Store.CevapButonArray[2]}</Button>
+          <Button
+            onClick={function (): void {
+              Reflesh();
+              Store.DogruCevapMi(Store.CevapButonArray[0]);
+            }}
+          >
+            {Store.CevapButonArray[0]}
+          </Button>
+          <Button
+            onClick={function (): void {
+              Reflesh();
+              Store.DogruCevapMi(Store.CevapButonArray[1]);
+            }}
+          >
+            {Store.CevapButonArray[1]}
+          </Button>
+          <Button
+            onClick={function (): void {
+              Reflesh();
+              Store.DogruCevapMi(Store.CevapButonArray[2]);
+            }}
+          >
+            {Store.CevapButonArray[2]}
+          </Button>
         </ButtonGroup>
       </div>
+
+      <Modal
+        isOpen={Store.isSuccess}
+        onClose={() => {
+          Reflesh();
+          Store.KelimeBul();
+          Store.closeModalSuccess(false);
+        }}
+        title="Doğru bildiniz :)"
+        isSuccess={true}
+      >
+        <></>
+      </Modal>
+      <Modal
+        isOpen={Store.isError}
+        onClose={() => {
+          Reflesh();
+          Store.KelimeBul();
+          Store.closeModalError(false);
+        }}
+        title="Yanlış bildiniz :("
+        isSuccess={false}
+      >
+        <div>
+          <p>
+            Doğrusu: {Store.KelimeTr ?? ""} - {Store.KelimeEn ?? ""}
+          </p>
+        </div>
+      </Modal>
     </div>
   );
 }
