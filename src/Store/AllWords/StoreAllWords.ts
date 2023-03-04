@@ -17,6 +17,7 @@ export class StoreAllWords {
 
   public static CevapButonArray: string[] = ["", "", ""];
 
+
   public static KelimeBul = () => {
     this.Kelime = Words[Math.floor(Math.random() * Words.length)];
     this.KelimeEn = this.Kelime.english;
@@ -52,7 +53,7 @@ export class StoreAllWords {
       num3 = Math.floor(Math.random() * 3);
     } while (num1 === num2 || num1 === num3 || num2 === num3);
 
-    if (this.CeviriTip === "En-Tr") {
+    if (this.CeviriTip === "Tr-En") {
       this.CevapButonArray[num1] = this.KelimeEn || "";
       this.CevapButonArray[num2] = this.CevapKelime1En || "";
       this.CevapButonArray[num3] = this.CevapKelime2En || "";
@@ -61,7 +62,6 @@ export class StoreAllWords {
       this.CevapButonArray[num2] = this.CevapKelime1Tr || "";
       this.CevapButonArray[num3] = this.CevapKelime2Tr || "";
     }
-    console.log(this.CevapButonArray);
   };
 }
 

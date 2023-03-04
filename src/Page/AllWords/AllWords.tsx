@@ -1,13 +1,19 @@
 import { StoreAllWords as Store } from "../../Store/AllWords/StoreAllWords";
 import "./AllWords.css";
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import AllWordsHeader from "./AllWordsHeader";
 import FormLabel from "@mui/material/FormLabel/FormLabel";
 import { Button, ButtonGroup } from "@mui/material";
 
 export default function AllWords({}: {}) {
   const [CeviriTipi, setCeviriTipi] = React.useState<boolean>(true);
+  let [index, setIndex] = useState([1]);
 
+  useEffect(() => {}, [setIndex]);
+
+  const Reflesh = () => {
+    setIndex([...index, 1]);
+  };
   return (
     <div>
       <div style={{ display: "flex", marginLeft: "20%" }}>
@@ -15,13 +21,13 @@ export default function AllWords({}: {}) {
           CeviriTipi={CeviriTipi}
           setCeviriTipi={setCeviriTipi}
           CeviriTipiOnClik={function (): void {
-            Store.CeviriTip = CeviriTipi ? "En-Tr" : "Tr-En";
             Store.KelimeBul();
           }}
         />
         <Button
           className="Center-Word-root"
           onClick={function (): void {
+            Reflesh();
             Store.CeviriTip = CeviriTipi ? "En-Tr" : "Tr-En";
             Store.KelimeBul();
           }}
