@@ -1,0 +1,17 @@
+.Center-Switch-root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Center-Word-root {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Center-ReplyWord-root {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

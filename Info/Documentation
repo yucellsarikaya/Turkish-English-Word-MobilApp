@@ -1,5 +1,6 @@
 npx cap add android 
 npm run build   
+npx cap sync
 npx cap open android
 
 android projesinde manifest -> AndroidManifest.xml dosyasına manifest tagı içine 
