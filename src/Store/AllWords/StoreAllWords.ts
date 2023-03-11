@@ -93,7 +93,6 @@ export class StoreAllWords {
     const varMi: any = await operations.readSecretFile("trueWords");
     if (varMi) {
       let trueWords: Word[] = JSON.parse(varMi);
-      debugger;
       let KelimeVarMi = trueWords.find(
         (i) => i.turkish === item.turkish && i.english === item.english
       );
@@ -110,7 +109,6 @@ export class StoreAllWords {
     const varMi: any = await operations.readSecretFile("falseWords");
     if (varMi) {
       let falseWords: Word[] = JSON.parse(varMi);
-      debugger;
       let KelimeVarMi = falseWords.find(
         (i) => i.turkish === item.turkish && i.english === item.english
       );

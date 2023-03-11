@@ -34,3 +34,4 @@ export class FileOperationsLocalStorage {
     localStorage.setItem(key, JSON.stringify(item));
   };
 }
+

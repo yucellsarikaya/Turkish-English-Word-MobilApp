@@ -1,7 +1,5 @@
 import { FormControlLabel } from "@mui/material";
-import Stack from "@mui/material/Stack/Stack";
 import Switch from "@mui/material/Switch/Switch";
-import Typography from "@mui/material/Typography/Typography";
 import React from "react";
 
 export default function AllWordsHeader({
