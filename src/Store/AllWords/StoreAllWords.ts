@@ -92,32 +92,32 @@ export class StoreAllWords {
   public static TrueWordWrite = async (item: Word) => {
     const varMi: any = await operations.readSecretFile("trueWords");
     if (varMi) {
-      let trueWords: Word[] = JSON.parse(varMi);
-      let KelimeVarMi = trueWords.find(
+      let trueWordsArray: Word[] = JSON.parse(varMi);
+      let KelimeVarMi = trueWordsArray.find(
         (i) => i.turkish === item.turkish && i.english === item.english
       );
       if (KelimeVarMi === undefined) {
-        trueWords.push(item);
-        operations.writeSecretFile("trueWords", trueWords);
+        trueWordsArray.push(item);
+        await  operations.writeSecretFile("trueWords", trueWordsArray);
       }
     } else {
-      operations.writeSecretFile("trueWords", [item]);
+      await  operations.writeSecretFile("trueWords", [item]);
     }
   };
 
   public static FalseWordWrite = async (item: Word) => {
     const varMi: any = await operations.readSecretFile("falseWords");
     if (varMi) {
-      let falseWords: Word[] = JSON.parse(varMi);
-      let KelimeVarMi = falseWords.find(
+      let falseWordsArray: Word[] = JSON.parse(varMi);
+      let KelimeVarMi = falseWordsArray.find(
         (i) => i.turkish === item.turkish && i.english === item.english
       );
       if (KelimeVarMi === undefined) {
-        falseWords.push(item);
-        operations.writeSecretFile("falseWords", falseWords);
+        falseWordsArray.push(item);
+        await  operations.writeSecretFile("falseWords", falseWordsArray);
       }
     } else {
-      operations.writeSecretFile("falseWords", [item]);
+      await  operations.writeSecretFile("falseWords", [item]);
     }
   };
 }

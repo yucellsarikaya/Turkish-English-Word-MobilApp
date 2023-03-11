@@ -1,38 +1,45 @@
-import { StoreAllWords as Store } from "../../Store/AllWords/StoreAllWords";
-import { FileOperationsLocalStorage as operations } from "../../Store/Operations/FileOperations";
+import { StoreTrueWords as Store } from "../../Store/TrueWords/StoreTrueWords";
 import "./TrueWords.css";
 import React, { useEffect, useState } from "react";
 import AllWordsHeader from "../../Components/AllWordsHeader";
 import FormLabel from "@mui/material/FormLabel/FormLabel";
 import { Button, ButtonGroup } from "@mui/material";
 import Modal from "../../Components/Modal";
+import Label from "../../Components/Label";
 
 export default function TrueWords({}: {}) {
   const [CeviriTipi, setCeviriTipi] = React.useState<boolean>(true);
   let [index, setIndex] = useState([1]);
-  
+
   useEffect(() => {}, [setIndex]);
 
-  const Reflesh = () => {
+  const Reflesh = async () => {
     setIndex([...index, 1]);
   };
 
   return (
     <div>
+      <div>
+        <Label
+          text="Devam etmek için en az 5 kelime bilmelisiniz"
+          bool={Store.isLabel}
+        />
+      </div>
       <div style={{ display: "flex", marginLeft: "20%" }}>
         <AllWordsHeader
           CeviriTipi={CeviriTipi}
           setCeviriTipi={setCeviriTipi}
-          CeviriTipiOnClik={function (): void {
-            Store.KelimeBul();
+          CeviriTipiOnClik={async function (): Promise<void> {
+            await Store.KelimeBul();
+            Reflesh();
           }}
         />
         <Button
           className="Center-Word-root"
-          onClick={function (): void {
-            Reflesh();
+          onClick={async function (): Promise<void> {
             Store.CeviriTip = CeviriTipi ? "En-Tr" : "Tr-En";
-            Store.KelimeBul();
+            await Store.KelimeBul();
+            Reflesh();
           }}
         >
           Kelime Üret
@@ -43,54 +50,57 @@ export default function TrueWords({}: {}) {
         <FormLabel className="Center-Word-root">
           İngilizce Kelimeniz:{" "}
           <span style={{ fontWeight: "bold" }}>
-            {Store.KelimeEn ? Store.KelimeEn : ""}
+            {Store.Kelime && Store.Kelime.english ? Store.Kelime.english : ""}
           </span>
         </FormLabel>
       ) : (
         <FormLabel className="Center-Word-root">
           Türkçe Kelimeniz:{" "}
           <span style={{ fontWeight: "bold" }}>
-            {Store.KelimeTr ? Store.KelimeTr : ""}
+            {Store.Kelime && Store.Kelime.turkish ? Store.Kelime.turkish : ""}
           </span>
         </FormLabel>
       )}
 
-      <div className="Center-ReplyWord-root">
-        <ButtonGroup variant="text" aria-label="text button group">
-          <Button
-            onClick={function (): void {
-              Reflesh();
-              Store.DogruCevapMi(Store.CevapButonArray[0]);
-            }}
-          >
-            {Store.CevapButonArray[0]}
-          </Button>
-          <Button
-            onClick={function (): void {
-              Reflesh();
-              Store.DogruCevapMi(Store.CevapButonArray[1]);
-            }}
-          >
-            {Store.CevapButonArray[1]}
-          </Button>
-          <Button
-            onClick={function (): void {
-              Reflesh();
-              Store.DogruCevapMi(Store.CevapButonArray[2]);
-            }}
-          >
-            {Store.CevapButonArray[2]}
-          </Button>
-        </ButtonGroup>
-      </div>
+      {Store.isLabel ? (
+        <></>
+      ) : (
+        <div className="Center-ReplyWord-root">
+          <ButtonGroup variant="text" aria-label="text button group">
+            <Button
+              onClick={async function (): Promise<void> {
+                Reflesh();
+                Store.DogruCevapMi(Store.CevapButonArray[0]);
+              }}
+            >
+              {Store.CevapButonArray[0]}
+            </Button>
+            <Button
+              onClick={async function (): Promise<void> {
+                Reflesh();
+                Store.DogruCevapMi(Store.CevapButonArray[1]);
+              }}
+            >
+              {Store.CevapButonArray[1]}
+            </Button>
+            <Button
+              onClick={async function (): Promise<void> {
+                Reflesh();
+                Store.DogruCevapMi(Store.CevapButonArray[2]);
+              }}
+            >
+              {Store.CevapButonArray[2]}
+            </Button>
+          </ButtonGroup>
+        </div>
+      )}
 
       <Modal
         isOpen={Store.isSuccess}
-        onClose={() => {
-          Reflesh();
-          Store.TrueWordWrite(Store.Kelime);
-          Store.KelimeBul();
+        onClose={async () => {
+          await Store.KelimeBul();
           Store.closeModalSuccess(false);
+          Reflesh();
         }}
         title="Doğru bildiniz :)"
         isSuccess={true}
@@ -99,18 +109,20 @@ export default function TrueWords({}: {}) {
       </Modal>
       <Modal
         isOpen={Store.isError}
-        onClose={() => {
-          Reflesh();
-          Store.FalseWordWrite(Store.Kelime);
-          Store.KelimeBul();
+        onClose={async () => {
+          await Store.FalseWordWrite(Store.Kelime);
+          await Store.KelimeBul();
           Store.closeModalError(false);
+          Reflesh();
         }}
         title="Yanlış bildiniz :("
         isSuccess={false}
       >
         <div>
           <p>
-            Doğrusu: {Store.KelimeTr ?? ""} - {Store.KelimeEn ?? ""}
+            Doğrusu:{" "}
+            {Store.Kelime && Store.Kelime.turkish ? Store.Kelime.turkish : ""} -{" "}
+            {Store.Kelime && Store.Kelime.english ? Store.Kelime.english : ""}
           </p>
         </div>
       </Modal>
