@@ -2,7 +2,6 @@ import "./Tab.css";
 import { useState } from "react";
 import { initialTabs as tabs } from "./ingredients";
 import { motion, AnimatePresence } from "framer-motion";
-import Verison from "./Verison";
 import PageTransition from "./PageTransition";
 
 export default function App() {

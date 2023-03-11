@@ -1,9 +1,9 @@
 import Words from "../../Words/Words.json";
-
+import { FileOperationsLocalStorage as operations } from "../../Store/Operations/FileOperations";
 export class StoreAllWords {
   public static CeviriTip: "Tr-En" | "En-Tr" = "En-Tr";
 
-  public static Kelime: Word | undefined = undefined;
+  public static Kelime: Word;
   public static KelimeTr: string | undefined = undefined;
   public static KelimeEn: string | undefined = undefined;
 
@@ -87,6 +87,40 @@ export class StoreAllWords {
   public static isError: boolean = false;
   public static closeModalError = (show: boolean) => {
     this.isError = show;
+  };
+
+  public static TrueWordWrite = async (item: Word) => {
+    const varMi: any = await operations.readSecretFile("trueWords");
+    if (varMi) {
+      let trueWords: Word[] = JSON.parse(varMi);
+      debugger;
+      let KelimeVarMi = trueWords.find(
+        (i) => i.turkish === item.turkish && i.english === item.english
+      );
+      if (KelimeVarMi === undefined) {
+        trueWords.push(item);
+        operations.writeSecretFile("trueWords", trueWords);
+      }
+    } else {
+      operations.writeSecretFile("trueWords", [item]);
+    }
+  };
+
+  public static FalseWordWrite = async (item: Word) => {
+    const varMi: any = await operations.readSecretFile("falseWords");
+    if (varMi) {
+      let falseWords: Word[] = JSON.parse(varMi);
+      debugger;
+      let KelimeVarMi = falseWords.find(
+        (i) => i.turkish === item.turkish && i.english === item.english
+      );
+      if (KelimeVarMi === undefined) {
+        falseWords.push(item);
+        operations.writeSecretFile("falseWords", falseWords);
+      }
+    } else {
+      operations.writeSecretFile("falseWords", [item]);
+    }
   };
 }
 

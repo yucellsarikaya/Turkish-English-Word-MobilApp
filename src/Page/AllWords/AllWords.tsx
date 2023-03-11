@@ -1,4 +1,5 @@
 import { StoreAllWords as Store } from "../../Store/AllWords/StoreAllWords";
+import { FileOperationsLocalStorage as operations } from "../../Store/Operations/FileOperations";
 import "./AllWords.css";
 import React, { useEffect, useState } from "react";
 import AllWordsHeader from "./AllWordsHeader";
@@ -95,6 +96,7 @@ export default function AllWords({}: {}) {
         isOpen={Store.isSuccess}
         onClose={() => {
           Reflesh();
+          Store.TrueWordWrite(Store.Kelime);
           Store.KelimeBul();
           Store.closeModalSuccess(false);
         }}
@@ -107,6 +109,7 @@ export default function AllWords({}: {}) {
         isOpen={Store.isError}
         onClose={() => {
           Reflesh();
+          Store.FalseWordWrite(Store.Kelime);
           Store.KelimeBul();
           Store.closeModalError(false);
         }}
@@ -119,6 +122,8 @@ export default function AllWords({}: {}) {
           </p>
         </div>
       </Modal>
+      {/* <button onClick={() => operations.readSecretFile()}>OKUMA</button>
+      <button onClick={() => operations.writeSecretFile()}>yazma</button> */}
     </div>
   );
 }
