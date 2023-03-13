@@ -1,5 +1,4 @@
 import { StoreAllWords as Store } from "../../Store/AllWords/StoreAllWords";
-import { FileOperationsLocalStorage as operations } from "../../Store/Operations/FileOperations";
 import "./AllWords.css";
 import React, { useEffect, useState } from "react";
 import AllWordsHeader from "../../Components/AllWordsHeader";
@@ -7,10 +6,11 @@ import FormLabel from "@mui/material/FormLabel/FormLabel";
 import { Button, ButtonGroup } from "@mui/material";
 import Modal from "../../Components/Modal";
 
+
 export default function AllWords({}: {}) {
   const [CeviriTipi, setCeviriTipi] = React.useState<boolean>(true);
   let [index, setIndex] = useState([1]);
-
+  
   useEffect(() => {}, [setIndex]);
 
   const Reflesh = () => {

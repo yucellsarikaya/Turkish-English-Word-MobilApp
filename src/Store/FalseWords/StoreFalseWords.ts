@@ -1,4 +1,4 @@
-import { FileOperationsLocalStorage as operations } from "../../Store/Operations/FileOperations";
+import { FileOperations as operations } from "../../Store/Operations/FileOperations";
 export class StoreFalseWords {
   public static CeviriTip: "Tr-En" | "En-Tr" = "En-Tr";
 
@@ -17,7 +17,7 @@ export class StoreFalseWords {
   public static CevapButonArray: string[] = ["", "", ""];
 
   public static KelimeBul = async () => {
-    const varMi: any = await operations.readSecretFile("falseWords");
+    const varMi: any = await operations.readFile("falseWords");
     if (varMi) {
       let falseWordsArray: Word[] = await JSON.parse(varMi);
       if (falseWordsArray.length > 5) {
@@ -36,7 +36,7 @@ export class StoreFalseWords {
   };
 
   public static CevapKelimeleriBul = async () => {
-    const varMi: any = await operations.readSecretFile("falseWords");
+    const varMi: any = await operations.readFile("falseWords");
     if (varMi) {
       let falseWordsArray: Word[] = await JSON.parse(varMi);
       let randomSayi = Math.abs((Date.now() % falseWordsArray.length) - 1);
@@ -112,7 +112,7 @@ export class StoreFalseWords {
   };
 
   public static TrueWordWrite = async (item: Word) => {
-    const falseWords: any = await operations.readSecretFile("falseWords");
+    const falseWords: any = await operations.readFile("falseWords");
     if (falseWords) {
       let falseWordsArray: Word[] = await JSON.parse(falseWords);
       var index = falseWordsArray.findIndex(function (key) {
@@ -120,11 +120,11 @@ export class StoreFalseWords {
       });
       if (index !== -1) {
         falseWordsArray.splice(index, 1);
-        await operations.writeSecretFile("falseWords", falseWordsArray);
+        await operations.writeFile("falseWords", falseWordsArray);
       }
     }
 
-    const trueWords: any = await operations.readSecretFile("trueWords");
+    const trueWords: any = await operations.readFile("trueWords");
     if (trueWords) {
       let trueWordsArray: Word[] = JSON.parse(trueWords);
       let KelimeVarMi = trueWordsArray.find(
@@ -132,10 +132,10 @@ export class StoreFalseWords {
       );
       if (KelimeVarMi === undefined) {
         trueWordsArray.push(item);
-        await operations.writeSecretFile("trueWords", trueWordsArray);
+        await operations.writeFile("trueWords", trueWordsArray);
       }
     } else {
-      await operations.writeSecretFile("trueWords", [item]);
+      await operations.writeFile("trueWords", [item]);
     }
   };
 }

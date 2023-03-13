@@ -1,5 +1,5 @@
 import Words from "../../Words/Words.json";
-import { FileOperationsLocalStorage as operations } from "../../Store/Operations/FileOperations";
+import { FileOperations as operations } from "../../Store/Operations/FileOperations";
 export class StoreAllWords {
   public static CeviriTip: "Tr-En" | "En-Tr" = "En-Tr";
 
@@ -90,7 +90,7 @@ export class StoreAllWords {
   };
 
   public static TrueWordWrite = async (item: Word) => {
-    const varMi: any = await operations.readSecretFile("trueWords");
+    const varMi: any = await operations.readFile("trueWords");
     if (varMi) {
       let trueWordsArray: Word[] = JSON.parse(varMi);
       let KelimeVarMi = trueWordsArray.find(
@@ -98,15 +98,15 @@ export class StoreAllWords {
       );
       if (KelimeVarMi === undefined) {
         trueWordsArray.push(item);
-        await  operations.writeSecretFile("trueWords", trueWordsArray);
+        await  operations.writeFile("trueWords", trueWordsArray);
       }
     } else {
-      await  operations.writeSecretFile("trueWords", [item]);
+      await  operations.writeFile("trueWords", [item]);
     }
   };
 
   public static FalseWordWrite = async (item: Word) => {
-    const varMi: any = await operations.readSecretFile("falseWords");
+    const varMi: any = await operations.readFile("falseWords");
     if (varMi) {
       let falseWordsArray: Word[] = JSON.parse(varMi);
       let KelimeVarMi = falseWordsArray.find(
@@ -114,10 +114,10 @@ export class StoreAllWords {
       );
       if (KelimeVarMi === undefined) {
         falseWordsArray.push(item);
-        await  operations.writeSecretFile("falseWords", falseWordsArray);
+        await  operations.writeFile("falseWords", falseWordsArray);
       }
     } else {
-      await  operations.writeSecretFile("falseWords", [item]);
+      await  operations.writeFile("falseWords", [item]);
     }
   };
 }
